@@ -90,7 +90,8 @@ Feat: Mage Slayer
 ## Act 1
 
 [ ] Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
-- `Druid Grove` Looted from **Kagha** either by killing or by knocking her unconscious with non-lethal attacks.
+  - `Inner Sanctum` Carried by **Kagha** in the Emerald Grove in Act 1. `X: -461 Y: -22`
+  - `High Hall` On a table of goods, owned by **Koll** in Act 3. `X: 235 Y: 44`
 
 [ ] Armour: [Adamantine Splint Armour](https://bg3.wiki/wiki/Adamantine_Splint_Armour)
   - `Adamantine Forge` Forged from a **Splint Mould** and **Mithral Ore**. `X: -558 Y: 230`
@@ -102,10 +103,10 @@ Feat: Mage Slayer
   - `The Risen Road` Carried by **Anders** in Toll House, or rewarded by him for killing **Karlach** in *Hunt the Devil*.⁠ `X: 110 Y: 560`
 
 [ ] Ring: [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
-  - `Underdark` Sold by **Derryth Bonecloak** at Ebonlake Grotto.
+  - `Ebonlake Grotto` Sold by Derryth Bonecloak in the Underdark. `X: -55 Y: -93`
 
 [ ] Ring: [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)
-  - `Goblin Camp` Worn by **Crusher**. Slip it off his toe when he demands you kiss his foot *or* loot from his corpse.
+  - `Goblin Camp` Worn by **Crusher**. Slip it off his toe when he demands you kiss his foot *or* loot from his corpse. `X:-70 Y:439`
 
 [ ] Ring: [Ring of Protection](https://bg3.wiki/wiki/Ring_of_Protection)
   - `Tiefling Hideout` Rewarded by **Mol** for completing the quest *Steal the Sacred Idol* in the Emerald Grove. `X: 84 Y: 73`
@@ -116,7 +117,7 @@ Feat: Mage Slayer
   - `Mind Flayer Colony` Worn by **Ketheric Thorm**. `X: 861 Y: -23`
 
 [ ] Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
-  - `Last Light Inn` Sold by **Quartermaster Talli**.
+  - `Last Light Inn` Sold by **Quartermaster Talli** near the Last Light Inn waypoint. `X: -31 Y: 130`
 
 [ ] Glaive: [Drakethroat Glaive](https://bg3.wiki/wiki/Drakethroat_Glaive)
   - `Moonrise Towers` Sold by **Roah Moonglow** on the main floor. `X: -174 Y: -179`
@@ -130,7 +131,7 @@ Feat: Mage Slayer
 ## Act 3
 
 [ ] Armour: [Helldusk Armor](https://bg3.wiki/wiki/Helldusk_armor)
-  - `House of Hope` Looted from **Raphael**.
+  - `House of Hope` Carried by **Raphael**. `X: -6477 Y: 2884`
 
 [ ] Cloak: [Cloak of Displacement](https://bg3.wiki/wiki/Cloak_of_Displacement)
   - `Danthelon's Dancing Axe` Sold by **Entharl Danthelon** in Wyrm's Crossing. `X: -10 Y: 143 `
