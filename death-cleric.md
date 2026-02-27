@@ -218,7 +218,7 @@ Feat: Ability Improvement
   - `Last Light Inn` In a trapped heavy chest in the cellar of the Last Light Inn. `X: 44 Y: -734`
 
 [ ] Ring: [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)
-  - `Gauntlet of Shar` In an opulent chest in the vault room near **Balthazar**. X: -821 Y: -752
+  - `Gauntlet of Shar` In an opulent chest in the vault room near **Balthazar**. `X: -821 Y: -752`
 
 [ ] Shield: [Ketheric's Shield](https://bg3.wiki/wiki/Ketheric%27s_Shield)
   - `Mind Flayer Colony` Carried by **Ketheric Thorm** when fought a second time. `X: 861 Y: -23`
@@ -235,7 +235,9 @@ Feat: Ability Improvement
 [ ] Quarterstave: [Staff of Cherished Necromancy](https://bg3.wiki/wiki/Staff_of_Cherished_Necromancy)
   - `Philgrave's Mansion` Carried by **Mystic Carrion**. `X: 14 Y: -160`
 
-### Weapons Notes
+---
+
+### Notes:
 
 "Buff on Heal" Item Set:
 - Hellrider's Pride
