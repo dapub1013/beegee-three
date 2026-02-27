@@ -148,10 +148,11 @@ Feat: Alert
 ## Early
 
 [ ] Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
-  - `Druid Grove` Looted from **Kagha** either by killing or by knocking her unconscious with non-lethal attacks.
+  - `Inner Sanctum` Carried by **Kagha** in the Emerald Grove in Act 1. `X: -461 Y: -22`
+  - `High Hall` On a table of goods, owned by **Koll** in Act 3. `X: 235 Y: 44`
 
-[ ] Armour: [Adamantine Scale Mail](https://bg3.wiki/wiki/Adamantine_Scale_Mail)
-  - `Grymforge` Crafted at the Adamantine Forge using a Scale Mail Mould and Mithral Ore.
+[ ] Armour: [Adamantine Splint Armour](https://bg3.wiki/wiki/Adamantine_Splint_Armour)
+  - `Adamantine Forge` Forged from a **Splint Mould** and **Mithral Ore**. `X: -558 Y: 230`
 
 [ ] Armour: [Hide Armour +2](https://bg3.wiki/wiki/Hide_Armour_%2B2)
   - `Goblin Camp` Sold by **Grat the Trader**.
@@ -172,16 +173,16 @@ Feat: Alert
   - `Shattered Sanctum` Inside treasure crates behind the locked iron gate in **Dror Ragzlin's** area. `X: 298 Y: 66`
 
 [ ] Ring: [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
-  - `Underdark` Sold by **Derryth Bonecloak** at Ebonlake Grotto.
+  - `Ebonlake Grotto` Sold by Derryth Bonecloak in the Underdark. `X: -55 Y: -93`
 
 [ ] Ring: [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)
-  - `Goblin Camp` Worn by **Crusher**. Slip it off his toe when he demands you kiss his foot, or loot from his corpse.
+  - `Goblin Camp` Worn by **Crusher**. Slip it off his toe when he demands you kiss his foot *or* loot from his corpse. `X:-70 Y:439`
 
 [ ] Shield: [Glowing Shield](https://bg3.wiki/wiki/Glowing_Shield)
   - `Goblin Camp` Inside a locked chest on the ridge behind the camp. `X: -53 Y: 470`
 
 [ ] Shield: [Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield)
-  - `Druid Grove` Sold by **Dammon**.
+  - `The Hollow` Sold by **Dammon** in the Emerald Grove. `X: 177 Y: 562`
 
 [ ] Shortbow: [Bow of Awareness](https://bg3.wiki/wiki/Bow_of_Awareness)
   - `Shattered Sanctum` Sold by **Roah Moonglow**. `X: 272 Y: -31`
@@ -191,10 +192,10 @@ Feat: Alert
 ## Later
 
 [ ] Armour: [Helldusk Armor](https://bg3.wiki/wiki/Helldusk_armor)
-  - `House of Hope` Looted from **Raphael**.
+  - `House of Hope` Carried by **Raphael**. `X: -6477 Y: 2884`
 
 [ ] Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
-  - `Last Light Inn` Sold by **Quartermaster Talli**.
+  - `Last Light Inn` Sold by **Quartermaster Talli** near the Last Light Inn waypoint. `X: -31 Y: 130`
 
 [ ] Gloves: [Helldusk Gloves](https://bg3.wiki/wiki/Helldusk_Gloves)
   - `House of Hope` Worn by **Haarlep** in the Boudoir. `X: -6478 Y: 2993`
@@ -206,13 +207,13 @@ Feat: Alert
   - `Crèche Y'llek` Looted from **Gish Far'aag** at the crèche entrance. `X: 1359 Y: -831`
 
 [ ] Scimitar: [Belm](https://bg3.wiki/wiki/Belm)
-  - `Lower City` Inside an opulent chest behind a locked bookcase in the basement of **Elerrathin's Home** (requires DC Sleight of Hand 18).
+  - `Lower City` Inside an opulent chest behind a locked bookcase in the basement of **Elerrathin's Home** (requires DC Sleight of Hand 18). `X: -1572 Y: 976`
 
 [ ] Longbow: [The Dead Shot](https://bg3.wiki/wiki/The_Dead_Shot)
-  - `Lower City` Sold by **Fytz the Firecracker** at Stormshore Armoury.
+  - `Stormshore Armoury` Sold by **Fytz the Firecracker** near the Lower City Central Wall waypoint. `X: -36 Y: -83`
 
 ---
 
-## Notes
+### Notes:
 
-Keep [Resonance Stone](https://bg3.wiki/wiki/Resonance_Stone) in inventory for increased psychic damage. Found on a table near the Mind-Archive Interface (southwest of Necrotic Laboratory).`Mind Flayer Colony` 
+Keep [Resonance Stone](https://bg3.wiki/wiki/Resonance_Stone) in inventory for increased psychic damage. Found on a table near the Mind-Archive Interface (southwest of Necrotic Laboratory) in the `Mind Flayer Colony`. 
