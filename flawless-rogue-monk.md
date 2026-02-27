@@ -127,27 +127,27 @@ Class: Monk
   - `Blighted Village` Inside a Moss-Covered Chest near the well. `X: 29 Y: 405`
 
 [ ] Quarterstave: [Corellon's Grace](https://bg3.wiki/wiki/Corellon%27s_Grace)
-  - `Druid Grove` Sold by **Auntie Ethel** before she leaves for her lair.
+  - `The Hollow` Sold by **Auntie Ethel** in the Hollow in the Emerald Grove. `X: 192 Y: 546`
 
 [ ] Ring: [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)
-  - `Goblin Camp` Worn by **Crusher**; slip it off his toe when he demands you kiss his foot, or loot from his corpse.
+  - `Goblin Camp` Worn by **Crusher**. Slip it off his toe when he demands you kiss his foot *or* loot from his corpse. `X:-70 Y:439`
 
 [ ] Ring: [Ring of Protection](https://bg3.wiki/wiki/Ring_of_Protection)
   - `Tiefling Hideout` Rewarded by Mol for completing the quest Steal the Sacred Idol in the Emerald Grove. `X: 84 Y: 73`
 
 [ ] Shortbow: [Hunting Shortbow](https://bg3.wiki/wiki/Hunting_Shortbow)
-  - `Druid Grove` Sold by **Dammon**.
+  - `The Hollow` Sold by **Dammon** in the Emerald Grove. `X: 177 Y: 562`
 
 ---
 
 ## Act 2
 
 [ ] Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
-  - `Last Light Inn` Sold by **Quartermaster Talli**.
+  - `Last Light Inn` Sold by **Quartermaster Talli** near the Last Light Inn waypoint. `X: -31 Y: 130`
 
 [ ] Ring: [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)
-  - `Gauntlet of Shar` In an opulent chest in the vault room near **Balthazar**.
-
+  - `Gauntlet of Shar` In an opulent chest in the vault room near **Balthazar**. `X: -821 Y: -752`
+  
 [ ] Shortbow: [Darkfire Shortbow](https://bg3.wiki/wiki/Darkfire_Shortbow)
   - `Last Light Inn` Sold by **Dammon** in Act 2. `X: -33 Y: 164`
 
@@ -185,11 +185,6 @@ Class: Monk
 
 # Elixirs
 
-### Act 1
+[Elixirs of Hill Giant Strength](https://bg3.wiki/wiki/Elixir_of_Hill_Giant_Strength) - Buy from **Auntie Ethel** *before* starting her quest. `Druid's Grove` **Note:** Do not go south of the `Blighted Village` until you no longer need these elixirs.
 
-[ ] [Elixirs of Hill Giant Strength](https://bg3.wiki/wiki/Elixir_of_Hill_Giant_Strength)
-  - `Druid's Grove` Buy from **Auntie Ethel** *before* starting her quest. **Note:** Do not go south of the `Blighted Village` until you no longer need these elixirs.
-
-### Act 3
-
-[ ] [Elixirs of Cloud Giant Strength](https://bg3.wiki/wiki/Elixir_of_Cloud_Giant_Strength)
+[Elixirs of Cloud Giant Strength](https://bg3.wiki/wiki/Elixir_of_Cloud_Giant_Strength)
