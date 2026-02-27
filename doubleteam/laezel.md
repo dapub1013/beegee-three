@@ -90,63 +90,28 @@ Feat: Mage Slayer
 ## Act 1
 
 [ ] Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
-  - `Inner Sanctum` Carried by **Kagha** in the Emerald Grove in Act 1. `X: -461 Y: -22`
   - `High Hall` On a table of goods, owned by **Koll** in Act 3. `X: 235 Y: 44`
 
-[ ] Armour: [Adamantine Splint Armour](https://bg3.wiki/wiki/Adamantine_Splint_Armour)
-  - `Adamantine Forge` Forged from a **Splint Mould** and **Mithral Ore**. `X: -558 Y: 230`
-
-[ ] Greatsword: [Soulbreaker Greatsword](https://bg3.wiki/wiki/Soulbreaker_Greatsword)
-  - `Crèche Y'llek` Carried by **Kith'rak Therezzyn** in the Captain's Quarters. `X: 1408 Y: -763`
-
-[ ] Greatsword: [Sword of Justice](https://bg3.wiki/wiki/Sword_of_Justice)
-  - `The Risen Road` Carried by **Anders** in Toll House, or rewarded by him for killing **Karlach** in *Hunt the Devil*.⁠ `X: 110 Y: 560`
-
-[ ] Ring: [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
-  - `Ebonlake Grotto` Sold by Derryth Bonecloak in the Underdark. `X: -55 Y: -93`
-
-[ ] Ring: [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)
-  - `Goblin Camp` Worn by **Crusher**. Slip it off his toe when he demands you kiss his foot *or* loot from his corpse. `X:-70 Y:439`
-
-[ ] Ring: [Ring of Protection](https://bg3.wiki/wiki/Ring_of_Protection)
-  - `Tiefling Hideout` Rewarded by **Mol** for completing the quest *Steal the Sacred Idol* in the Emerald Grove. `X: 84 Y: 73`
-
-## Act 2
-
-[ ] Armour: [Reaper's Embrace](https://bg3.wiki/wiki/Reaper%27s_Embrace)
+[x] Armour: [Reaper's Embrace](https://bg3.wiki/wiki/Reaper%27s_Embrace)
   - `Mind Flayer Colony` Worn by **Ketheric Thorm**. `X: 861 Y: -23`
 
-[ ] Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
-  - `Last Light Inn` Sold by **Quartermaster Talli** near the Last Light Inn waypoint. `X: -31 Y: 130`
-
-[ ] Glaive: [Drakethroat Glaive](https://bg3.wiki/wiki/Drakethroat_Glaive)
-  - `Moonrise Towers` Sold by **Roah Moonglow** on the main floor. `X: -174 Y: -179`
-
-[ ] Gloves: [Dark Justiciar Gauntlets](https://bg3.wiki/wiki/Dark_Justiciar_Gauntlets_(Uncommon))
-  - `Gauntlet of Shar` on a pile of boxes, near **Yurgir**. `X: -660 Y: -760`
-
-[ ] Helmet: [Grymskull Helm](https://bg3.wiki/wiki/Grymskull_Helm)
-  - `Adamantine Forge` Carried by **Grym**. `X: -557 Y: 234`
-
-## Act 3
-
-[ ] Armour: [Helldusk Armor](https://bg3.wiki/wiki/Helldusk_armor)
-  - `House of Hope` Carried by **Raphael**. `X: -6477 Y: 2884`
-
-[ ] Cloak: [Cloak of Displacement](https://bg3.wiki/wiki/Cloak_of_Displacement)
+[x] Cloak: [Cloak of Displacement](https://bg3.wiki/wiki/Cloak_of_Displacement)
   - `Danthelon's Dancing Axe` Sold by **Entharl Danthelon** in Wyrm's Crossing. `X: -10 Y: 143 `
-
-[ ] Gloves: [Legacy of the Masters](https://bg3.wiki/wiki/Legacy_of_the_Masters)
-  - `Forge of the Nine` Sold by **Dammon** in Act 3. `X: 392 Y: 766`
 
 [ ] Greatsword: [Silver Sword of the Astral Plane](https://bg3.wiki/wiki/Silver_Sword_of_the_Astral_Plane)
   - `Lower City Sewers` Rewarded for showing the **Orphic Hammer** to (or killing) **Kith'rak Voss** after agreeing to meet him in the sewers within the Undercity in Act 3. `X: -70 Y: 828`
 
+[x] Greatsword: [Soulbreaker Greatsword](https://bg3.wiki/wiki/Soulbreaker_Greatsword)
+  - `Crèche Y'llek` Carried by **Kith'rak Therezzyn** in the Captain's Quarters. `X: 1408 Y: -763`
+
+[x] Helmet: [Grymskull Helm](https://bg3.wiki/wiki/Grymskull_Helm)
+  - `Adamantine Forge` Carried by **Grym**. `X: -557 Y: 234`
+
 [ ] Helmet: [Mask of Soul Perception](https://bg3.wiki/wiki/Mask_of_Soul_Perception)
   - `Devil's Fee` In a locked Gilded Chest (DC 20 Sleight of Hand Check) in **Helsik's** room upstairs. `X: -33 Y: 20`
 
-[ ] Longbow: [Hellrider Longbow](https://bg3.wiki/wiki/Hellrider_Longbow)
-  - `Rivington` Sold by **Ferg Drogher** near the Requisitioned Barn. `X: 43 Y: -101`
+[x] Gloves: [Legacy of the Masters](https://bg3.wiki/wiki/Legacy_of_the_Masters)
+  - `Forge of the Nine` Sold by **Dammon** in Act 3. `X: 392 Y: 766`
 
 ---
 
