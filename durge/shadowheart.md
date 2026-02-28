@@ -1,4 +1,4 @@
-# Shadowheart Death Cleric
+# Shadowheart's Death Cleric
 
 [Build Reference](https://www.youtube.com/watch?v=UajN50mwH6g) | [↓ Items](#items)
 

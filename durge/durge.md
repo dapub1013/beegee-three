@@ -1,4 +1,4 @@
-# Perfect Dark Ice Hunter
+# The Dark Urge's Perfect Dark Ice Hunter
 
 [Build Reference](https://www.youtube.com/watch?v=n-d3lNhnjGA) | [↓ Items](#items) | [↓ Strategy](#combat-strategy) |
 

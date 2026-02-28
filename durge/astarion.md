@@ -1,4 +1,4 @@
-# Shadow Assassin
+# Astarion's Shadow Assassin
 
 [Build Reference](https://www.youtube.com/watch?v=C1zHCYptBBA) | [↓ Items](#items)
 
