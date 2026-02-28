@@ -177,10 +177,10 @@ Feat: Ability Improvement
 [ ] Armour: [Luminous Armour](https://bg3.wiki/wiki/Luminous_Armour)
   - `Selûnite Outpost` in a locked and trapped opulent chest. `X: 176 Y: -247`
 
-[ ] Boots: [Boots of Aid and Comfort](https://bg3.wiki/wiki/Boots_of_Aid_and_Comfort)
+[x] Boots: [Boots of Aid and Comfort](https://bg3.wiki/wiki/Boots_of_Aid_and_Comfort)
   - `Goblin Camp` Sold by **Grat the Trader**. `X: -99 Y: 424`
 
-[ ] Boots: [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour)
+[x] Boots: [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour)
   - `Ebonlake Grotto` Sold by **Omeluum **after completing the quest *Help Omeluum Investigate the Parasite*. `X: 144 Y: 29`
 
 [ ] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
@@ -189,19 +189,17 @@ Feat: Ability Improvement
 [ ] Gloves: [Gloves of Belligerent Skies](https://bg3.wiki/wiki/Gloves_of_Belligerent_Skies)
   - `Crèche Y'llek` In an elegant chest in the **Inquisitor's Chamber**, along the southern wall of the room, on the western side. `X: 1348 Y: -677`
 
-[ ] Gloves: [Hellrider's Pride](https://bg3.wiki/wiki/Hellrider%27s_Pride)
+[x] Gloves: [Hellrider's Pride](https://bg3.wiki/wiki/Hellrider%27s_Pride)
   - `Druid Grove` Carried by **Zevlor** and can be either looted from him, bought, stolen, or earned as reward for the quests *Kill Kagha* or *Investigate Kagha*. `X: -53 Y: 67`
 
-[ ] Longsword: [Phalar Aluve](https://bg3.wiki/wiki/Phalar_Aluve)
+[x] Longsword: [Phalar Aluve](https://bg3.wiki/wiki/Phalar_Aluve)
   - `Underdark` Embedded inside a rock. `X: 116 Y: -192`
 
-[ ] Quarterstave: [Staff of Arcane Blessing](https://bg3.wiki/wiki/Staff_of_Arcane_Blessing)
+[x] Quarterstave: [Staff of Arcane Blessing](https://bg3.wiki/wiki/Staff_of_Arcane_Blessing)
   - `Underdark` Leaning against a table in the basement of the Arcane Tower. `X: 164 Y: 432`
 
 [ ] Ring: [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)
-  - `Goblin Camp` Sold by **Grat the Trader**. `X: -99 Y: 424`
-  - `Sacred Pool` Sold by **Volo**. `X: 260 Y: 510`
-  - `Camp` Sold by **Volo**.
+  - `Camp` Sold by **Volo**. (?)
 
 ## Act 2
 
