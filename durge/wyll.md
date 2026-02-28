@@ -1,4 +1,4 @@
-# The Hexblade Warlock
+# Wyll's Hexblade
 
 [Build Reference](https://www.youtube.com/watch?v=VZCKE2e9BPw) | [↓ Items](#items)
 
@@ -151,12 +151,6 @@ Feat: Alert
   - `Inner Sanctum` Carried by **Kagha** in the Emerald Grove in Act 1. `X: -461 Y: -22`
   - `High Hall` On a table of goods, owned by **Koll** in Act 3. `X: 235 Y: 44`
 
-[ ] Armour: [Adamantine Splint Armour](https://bg3.wiki/wiki/Adamantine_Splint_Armour)
-  - `Adamantine Forge` Forged from a **Splint Mould** and **Mithral Ore**. `X: -558 Y: 230`
-
-[ ] Armour: [Hide Armour +2](https://bg3.wiki/wiki/Hide_Armour_%2B2)
-  - `Goblin Camp` Sold by **Grat the Trader**.
-
 [ ] Boots: [Vital Conduit Boots](https://bg3.wiki/wiki/Vital_Conduit_Boots)
   - `Crèche Y'llek` Sold by **A'jak'nir Jeera**. `X: 1380 Y: -798`
 
@@ -172,7 +166,7 @@ Feat: Alert
 [ ] Gloves: [Gloves of the Growling Underdog](https://bg3.wiki/wiki/Gloves_of_the_Growling_Underdog)
   - `Shattered Sanctum` Inside treasure crates behind the locked iron gate in **Dror Ragzlin's** area. `X: 298 Y: 66`
 
-[ ] Ring: [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
+[x] Ring: [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
   - `Ebonlake Grotto` Sold by Derryth Bonecloak in the Underdark. `X: -55 Y: -93`
 
 [ ] Ring: [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)
