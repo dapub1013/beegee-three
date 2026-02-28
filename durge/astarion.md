@@ -116,7 +116,7 @@ Class Action: Action Surge
 
 ## Act 1
 
-[ ] Amulet: [Moondrop Pendant](https://bg3.wiki/wiki/Moondrop_Pendant)
+[x] Amulet: [Moondrop Pendant](https://bg3.wiki/wiki/Moondrop_Pendant)
   - `Owlbear Nest` Found in a Selunite Gilded Chest; read the Selunite Prayer Sheet in front of the chest to unlock it `X: -321 Y: -135`
 
 [ ] Amulet: [Sentient Amulet](https://bg3.wiki/wiki/Sentient_Amulet)
@@ -126,16 +126,16 @@ Class Action: Action Surge
 [ ] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
   - `Grymforge` Worn by **Nere**; looted from his corpse. `X: -854 Y: 780`
 
-[ ] Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
+[x] Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
   - `Blighted Village` Inside a Moss-Covered Chest near the well. `X: 29 Y: 405`
 
-[ ] Gloves: [Bracers of Defense](https://bg3.wiki/wiki/Bracers_of_defense)
+[x] Gloves: [Bracers of Defense](https://bg3.wiki/wiki/Bracers_of_defense)
   - `Blighted Village` Found in a Gilded Chest in the Apothecary's Cellar. `X: -656 Y: -370`
 
 [ ] Longbow: [Bow of the Banshee](https://bg3.wiki/wiki/Bow_of_the_Banshee)
   - `Grymforge` Sold by **Corsair Greymon**. `X: -120 Y: -95`
 
-[ ] Quarterstave: [Corellon's Grace](https://bg3.wiki/wiki/Corellon%27s_Grace)
+[x] Quarterstave: [Corellon's Grace](https://bg3.wiki/wiki/Corellon%27s_Grace)
   - `The Hollow` Sold by **Auntie Ethel** in the Hollow in the Emerald Grove. `X: 192 Y: 546`
 
 [ ] Ring: [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
@@ -144,10 +144,10 @@ Class Action: Action Surge
 [ ] Ring: [Strange Conduit Ring](https://bg3.wiki/wiki/Strange_Conduit_Ring)
   - `Crèche Y'llek` Inside an elegant chest in **Inquisitor's Chamber**. `X: 1360 Y: -657`
 
-[ ] Shortbow: [Hunting Shortbow](https://bg3.wiki/wiki/Hunting_Shortbow)
+[x] Shortbow: [Hunting Shortbow](https://bg3.wiki/wiki/Hunting_Shortbow)
   - `The Hollow` Sold by **Dammon** in the Emerald Grove. `X: 177 Y: 562`
 
-[ ] Shortsword: [Shortsword of First Blood](https://bg3.wiki/wiki/Shortsword_of_First_Blood)
+[x] Shortsword: [Shortsword of First Blood](https://bg3.wiki/wiki/Shortsword_of_First_Blood)
   - `Underdark` Looted from an executed Deep Gnome corpse near the Myconid Colony entrance. `X: 73 Y: -187`
 
 [ ] Shortsword: [Knife of the Undermountain King](https://bg3.wiki/wiki/Knife_of_the_Undermountain_King)
