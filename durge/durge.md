@@ -212,7 +212,7 @@ Spells 4/4:
   - `Goblin Camp` Sold by **Grat the Trader**. `X: -99 Y: 424`
 
 [ ] Helmet: [Diadem of Arcane Synergy](https://bg3.wiki/wiki/Diadem_of_Arcane_Synergy)
-  - `Crèche Y'llek` Carried by** Ardent Jhe'rezath** in the Inquisitor's Chamber `X: 1365 Y: -663`
+  - `Crèche Y'llek` Carried by **Ardent Jhe'rezath** in the Inquisitor's Chamber `X: 1365 Y: -663`
 
 [x] Longbow: [Titanstring Bow](https://bg3.wiki/wiki/Titanstring_Bow)
   - `Zhentarim Basement` Sold by **Brem** after completing the quest *⁠Find the Missing Shipment*. `X: 295 Y: -250`
