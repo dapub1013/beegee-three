@@ -138,7 +138,7 @@ Class Action: Action Surge
 [x] Quarterstave: [Corellon's Grace](https://bg3.wiki/wiki/Corellon%27s_Grace)
   - `The Hollow` Sold by **Auntie Ethel** in the Hollow in the Emerald Grove. `X: 192 Y: 546`
 
-[ ] Ring: [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
+[-] Ring: [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
   - `Ebonlake Grotto` Sold by **Derryth Bonecloak** in the Underdark. `X: -55 Y: -93`
 
 [ ] Ring: [Strange Conduit Ring](https://bg3.wiki/wiki/Strange_Conduit_Ring)

@@ -147,7 +147,7 @@ Feat: Alert
 
 ## Early
 
-[ ] Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
+[-] Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
   - `Inner Sanctum` Carried by **Kagha** in the Emerald Grove in Act 1. `X: -461 Y: -22`
   - `High Hall` On a table of goods, owned by **Koll** in Act 3. `X: 235 Y: 44`
 
@@ -157,7 +157,7 @@ Feat: Alert
 [ ] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
   - `Grymforge` Worn by **Nere**; looted from his corpse. `X: -854 Y: 780`
 
-[ ] Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
+[-] Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
   - `Blighted Village` Inside a Moss-Covered Chest near the well. `X: 29 Y: 405`
 
 [ ] Gloves: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_dexterity)
@@ -169,13 +169,13 @@ Feat: Alert
 [x] Ring: [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
   - `Ebonlake Grotto` Sold by Derryth Bonecloak in the Underdark. `X: -55 Y: -93`
 
-[ ] Ring: [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)
+[-] Ring: [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)
   - `Goblin Camp` Worn by **Crusher**. Slip it off his toe when he demands you kiss his foot *or* loot from his corpse. `X:-70 Y:439`
 
-[ ] Shield: [Glowing Shield](https://bg3.wiki/wiki/Glowing_Shield)
+[x] Shield: [Glowing Shield](https://bg3.wiki/wiki/Glowing_Shield)
   - `Goblin Camp` Inside a locked chest on the ridge behind the camp. `X: -53 Y: 470`
 
-[ ] Shield: [Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield)
+[-] Shield: [Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield)
   - `The Hollow` Sold by **Dammon** in the Emerald Grove. `X: 177 Y: 562`
 
 [ ] Shortbow: [Bow of Awareness](https://bg3.wiki/wiki/Bow_of_Awareness)

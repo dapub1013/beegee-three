@@ -174,7 +174,7 @@ Feat: Ability Improvement
 
 ## Act 1
 
-[ ] Armour: [Luminous Armour](https://bg3.wiki/wiki/Luminous_Armour)
+[x] Armour: [Luminous Armour](https://bg3.wiki/wiki/Luminous_Armour)
   - `Selûnite Outpost` in a locked and trapped opulent chest. `X: 176 Y: -247`
 
 [x] Boots: [Boots of Aid and Comfort](https://bg3.wiki/wiki/Boots_of_Aid_and_Comfort)
