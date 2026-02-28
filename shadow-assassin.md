@@ -132,9 +132,6 @@ Class Action: Action Surge
 [ ] Gloves: [Bracers of Defense](https://bg3.wiki/wiki/Bracers_of_defense)
   - `Blighted Village` Found in a Gilded Chest in the Apothecary's Cellar. `X: -656 Y: -370`
 
-[ ] Longbow: [Bow of the Banshee](https://bg3.wiki/wiki/Bow_of_the_Banshee)
-  - `Grymforge` Sold by **Corsair Greymon**. `X: -120 Y: -95`
-
 [ ] Quarterstave: [Corellon's Grace](https://bg3.wiki/wiki/Corellon%27s_Grace)
   - `The Hollow` Sold by **Auntie Ethel** in the Hollow in the Emerald Grove. `X: 192 Y: 546`
 
@@ -146,6 +143,9 @@ Class Action: Action Surge
 
 [ ] Shortbow: [Hunting Shortbow](https://bg3.wiki/wiki/Hunting_Shortbow)
   - `The Hollow` Sold by **Dammon** in the Emerald Grove. `X: 177 Y: 562`
+
+[ ] Shortbow: [Bow of the Banshee](https://bg3.wiki/wiki/Bow_of_the_Banshee)
+  - `Grymforge` Sold by **Corsair Greymon**. `X: -120 Y: -95`
 
 [ ] Shortsword: [Shortsword of First Blood](https://bg3.wiki/wiki/Shortsword_of_First_Blood)
   - `Underdark` Looted from an executed Deep Gnome corpse near the Myconid Colony entrance. `X: 73 Y: -187`
