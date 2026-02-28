@@ -151,7 +151,7 @@ Feat: Alert
   - `Inner Sanctum` Carried by **Kagha** in the Emerald Grove in Act 1. `X: -461 Y: -22`
   - `High Hall` On a table of goods, owned by **Koll** in Act 3. `X: 235 Y: 44`
 
-[ ] Armour: [Adamantine Splint Armour](https://bg3.wiki/wiki/Adamantine_Splint_Armour)
+[ ] Armour: [Adamantine Scale Mail](https://bg3.wiki/wiki/Adamantine_Scale_Mail)
   - `Adamantine Forge` Forged from a **Splint Mould** and **Mithral Ore**. `X: -558 Y: 230`
 
 [ ] Armour: [Hide Armour +2](https://bg3.wiki/wiki/Hide_Armour_%2B2)
