@@ -263,7 +263,7 @@ Spells 4/4:
 [ ] Armour: [Armour of Agility](https://bg3.wiki/wiki/Armour_of_Agility)
   - `Lower City` Sold by **Gloomy Fentonson** at Stormshore Armoury. `X: -41 Y: -71`
 
-[ ] Boots: [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour)
+[x] Boots: [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour)
   - `Ebonlake Grotto` Sold by **Omeluum **after completing the quest *Help Omeluum Investigate the Parasite*. `X: 144 Y: 29`
 
 [ ] Cloak: [Cloak of Displacement](https://bg3.wiki/wiki/Cloak_of_Displacement)
