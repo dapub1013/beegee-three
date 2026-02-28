@@ -230,7 +230,7 @@ Spells 4/4:
 [x] Shield: [Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield)
   - `The Hollow` Sold by **Dammon** in the Emerald Grove. `X: 177 Y: 562`
 
-[ ] Shortbow: [Bow of the Banshee](https://bg3.wiki/wiki/Bow_of_the_Banshee)
+[-] Shortbow: [Bow of the Banshee](https://bg3.wiki/wiki/Bow_of_the_Banshee)
   - `Grymforge` Sold by **Corsair Greymon**. `X: -120 Y: -95`
 
 ---
