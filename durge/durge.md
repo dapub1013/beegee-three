@@ -195,26 +195,26 @@ Spells 4/4:
 
 ## Act 1
 
-[ ] Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
+[x] Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
   - `Inner Sanctum` Carried by **Kagha** in the Emerald Grove in Act 1. `X: -461 Y: -22`
   - `High Hall` On a table of goods, owned by **Koll** in Act 3. `X: 235 Y: 44`
 
 [ ] Armour: [The Graceful Cloth](https://bg3.wiki/wiki/The_Graceful_Cloth)
   - `Rosymorn Monastery Trail` Sold by **Lady Esther**, north-east of the Trielta Crags waypoint. `X: -43 Y: -129`
 
-[ ] Boots: [Boots of Striding](https://bg3.wiki/wiki/Boots_of_Striding)
+[x] Boots: [Boots of Striding](https://bg3.wiki/wiki/Boots_of_Striding)
   - `Shattered Sanctum` Worn by **Minthara**. `X: 335 Y: 43`
 
-[ ] Club: [Club of Hill Giant Strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength)
+[x] Club: [Club of Hill Giant Strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength)
   - `Arcane Tower` Found by breaking the **Stool of Hill Giant Strength** on the highest floor of with **Bernard**. The stool is underneath the thatched roof section in the furtherst corner, standing upright. `X: -26 Y: -272`
 
-[ ] Gloves: [Gloves of Archery](https://bg3.wiki/wiki/Gloves_of_Archery)
+[x] Gloves: [Gloves of Archery](https://bg3.wiki/wiki/Gloves_of_Archery)
   - `Goblin Camp` Sold by **Grat the Trader**. `X: -99 Y: 424`
 
 [ ] Helmet: [Diadem of Arcane Synergy](https://bg3.wiki/wiki/Diadem_of_Arcane_Synergy)
   - `Crèche Y'llek` Carried by** Ardent Jhe'rezath** in the Inquisitor's Chamber `X: 1365 Y: -663`
 
-[ ] Longbow: [Titanstring Bow](https://bg3.wiki/wiki/Titanstring_Bow)
+[x] Longbow: [Titanstring Bow](https://bg3.wiki/wiki/Titanstring_Bow)
   - `Zhentarim Basement` Sold by **Brem** after completing the quest *⁠Find the Missing Shipment*. `X: 295 Y: -250`
   - `Moonrise Towers` Sold by **Lann Tarv** on the main floor, only if Brem's special stock was not unlocked before by completing *Find the Missing Shipment*. `X: -164 Y: -167`
   - **Note:** Use **Elixir of Hill Giant Strength** after equipping Titanstring Bow until looting [Club of Hill Giant Strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength).
@@ -227,7 +227,7 @@ Spells 4/4:
   - `Sacred Pool` Sold by **Volo**. `X: 260 Y: 510`
   - `Camp` Sold by **Volo**.
 
-[ ] Shield: [Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield)
+[x] Shield: [Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield)
   - `The Hollow` Sold by **Dammon** in the Emerald Grove. `X: 177 Y: 562`
 
 [ ] Shortbow: [Bow of the Banshee](https://bg3.wiki/wiki/Bow_of_the_Banshee)
