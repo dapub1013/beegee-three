@@ -97,89 +97,46 @@ Class: Monk
 
 # Items
 
-## Act 1
-
-[ ] Amulet: [Moondrop Pendant](https://bg3.wiki/wiki/Moondrop_Pendant)
-  - `Owlbear Nest` Found in a Selûnite Gilded Chest; read the **Selunite Prayer Sheet** in front of the chest to unlock it. `X: -321 Y: -135`
-
-[ ] Armour: [Bloodguzzler Garb](https://bg3.wiki/wiki/Bloodguzzler_Garb)
-  - `Underdark` Looted from the **Bulette**.
-
-[ ] Boots: [Boots of Genial Striding](https://bg3.wiki/wiki/Boots_of_Genial_Striding)
-  - `Ebonlake Grotto` Sold by **Blurg**. `X: 111 Y: -89`
-
-[ ] Gloves: [Bracers of Defense](https://bg3.wiki/wiki/Bracers_of_defense)
-  - `Blighted Village` Found in a gilded chest in the Apothecary's Cellar. `X: -656 Y: -370`
-
-[ ] Gloves: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_dexterity)
-  - `Crèche Y'llek` Sold by **A'jak'nir Jeera**. `X: 1380 Y: -798` Redistribute ability points once Gloves of Dexterity are equipped:
-
-    | Ability | Score | Modifier |
-    |---------|-------|----------|
-    | Strength | 17 | +2 |
-    | Dexterity | 8 | - |
-    | Constitution | 16 | +1 |
-    | Intelligence | 8 | — |
-    | Wisdom | 15 | - |
-    | Charisma | 8 | — |
-
-[ ] Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
-  - `Blighted Village` Inside a Moss-Covered Chest near the well. `X: 29 Y: 405`
-
-[ ] Quarterstave: [Corellon's Grace](https://bg3.wiki/wiki/Corellon%27s_Grace)
-  - `The Hollow` Sold by **Auntie Ethel** in the Hollow in the Emerald Grove. `X: 192 Y: 546`
-
-[ ] Ring: [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)
-  - `Goblin Camp` Worn by **Crusher**. Slip it off his toe when he demands you kiss his foot *or* loot from his corpse. `X:-70 Y:439`
-
-[ ] Ring: [Ring of Protection](https://bg3.wiki/wiki/Ring_of_Protection)
-  - `Tiefling Hideout` Rewarded by Mol for completing the quest Steal the Sacred Idol in the Emerald Grove. `X: 84 Y: 73`
-
-[ ] Shortbow: [Hunting Shortbow](https://bg3.wiki/wiki/Hunting_Shortbow)
-  - `The Hollow` Sold by **Dammon** in the Emerald Grove. `X: 177 Y: 562`
-
----
-
-## Act 2
-
-[ ] Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
-  - `Last Light Inn` Sold by **Quartermaster Talli** near the Last Light Inn waypoint. `X: -31 Y: 130`
-
-[ ] Ring: [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)
-  - `Gauntlet of Shar` In an opulent chest in the vault room near **Balthazar**. `X: -821 Y: -752`
-  
-[ ] Shortbow: [Darkfire Shortbow](https://bg3.wiki/wiki/Darkfire_Shortbow)
-  - `Last Light Inn` Sold by **Dammon** in Act 2. `X: -33 Y: 164`
-
----
-
-## Act 3
-
 [ ] Amulet: [Khalid's Gift](https://bg3.wiki/wiki/Khalid%27s_Gift)
   - `Elerrathin's Home` In a display case in the basement. `X: -1572 Y: 976` **Note:** May not be available if Jaheira is not recruited. (?)
 
-[ ] Armour: [Vest of Soul Rejuvination](https://bg3.wiki/wiki/Vest_of_Soul_Rejuvenation)
+[x] Amulet: [Moondrop Pendant](https://bg3.wiki/wiki/Moondrop_Pendant)
+  - `Owlbear Nest` Found in a Selûnite Gilded Chest; read the **Selunite Prayer Sheet** in front of the chest to unlock it. `X: -321 Y: -135`
+
+[x] Armour: [Vest of Soul Rejuvination](https://bg3.wiki/wiki/Vest_of_Soul_Rejuvenation)
   - `Sorcerous Sundries` Sold by **Lorroakan's Projection** if Rolan is dead.
   - `Sorcerous Sundries` Sold by **Rolan** if Rolan and Lorroakan are both alive.
   - `Ramazith's Tower` Sold by **Rolan** via trade option on the bottom left during the dialogue if Rolan is alive but Lorroakan is dead.
 
+[ ] Boots: [Boots of Genial Striding](https://bg3.wiki/wiki/Boots_of_Genial_Striding)
+  - `Ebonlake Grotto` Sold by **Blurg**. `X: 111 Y: -89`
+
 [ ] Boots: [Boots of Uninhibited Kushigo](https://bg3.wiki/wiki/Boots_of_Uninhibited_Kushigo)
   - `Astral Plane` Carried by **Prelate Lir'i'c** as entering Act 3. `X: -163 Y: -1158`
 
+[x] Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
+  - `Last Light Inn` Sold by **Quartermaster Talli** near the Last Light Inn waypoint. `X: -31 Y: 130`
+
+[x] Gloves: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_dexterity)
+  - `Crèche Y'llek` Sold by **A'jak'nir Jeera**. `X: 1380 Y: -798` Redistribute ability points once Gloves of Dexterity are equipped:
+
 [ ] Gloves: [Gloves of Soul Catching](https://bg3.wiki/wiki/Gloves_of_Soul_Catching)
-  - `House of Hope` Given by **Hope** for completing her quest *⁠Save Hope*. `X: -6477 Y: 2884` Redistribute ability points once Gloves of Soul Catching are equipped *and* Elixirs of Cloud Giant Strength are avaiable:
+  - `House of Hope` Given by Hope for completing her quest '⁠Save Hope' `X: -6477 Y: 2884`
+  - Once equipped, update your ability scores and begin using Elixirs of Cloud Giant Strength.
 
-    | Ability | Score | Modifier |
-    |---------|-------|----------|
-    | Strength | 8 | — |
-    | Dexterity | 16 | +2 |
-    | Constitution | 15 | +1 |
-    | Intelligence | 8 | — |
-    | Wisdom | 20 | - |
-    | Charisma | 9 | — |
+  **Note:** [↓ Respec your ability scores](#gloves-of-soul-catching-ability-scores) once Gloves of Soul Catching are equipped *and* [↓ Elixirs](#elixirs) of Cloud Giant Strength are avaiable:
 
-[ ] Helmet: [Horns of the Berserker](https://bg3.wiki/wiki/Horns_of_the_Berserker)
+[x] Helmet: [Horns of the Berserker](https://bg3.wiki/wiki/Horns_of_the_Berserker)
   - `Danthelion's Dancing Axe` Sold by **Enthari Denthelon**. `X: -10 Y: 143`
+
+[x] Ring: [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)
+  - `Goblin Camp` Worn by **Crusher**. Slip it off his toe when he demands you kiss his foot *or* loot from his corpse. `X:-70 Y:439`
+
+[x] Ring: [Ring of Protection](https://bg3.wiki/wiki/Ring_of_Protection)
+  - `Tiefling Hideout` Rewarded by Mol for completing the quest Steal the Sacred Idol in the Emerald Grove. `X: 84 Y: 73`
+
+[x] Shortbow: [Hunting Shortbow](https://bg3.wiki/wiki/Hunting_Shortbow)
+  - `The Hollow` Sold by **Dammon** in the Emerald Grove. `X: 177 Y: 562`
 
 ---
 
@@ -188,3 +145,19 @@ Class: Monk
 [Elixirs of Hill Giant Strength](https://bg3.wiki/wiki/Elixir_of_Hill_Giant_Strength) - Buy from **Auntie Ethel** *before* starting her quest. `Druid's Grove` **Note:** Do not go south of the `Blighted Village` until you no longer need these elixirs.
 
 [Elixirs of Cloud Giant Strength](https://bg3.wiki/wiki/Elixir_of_Cloud_Giant_Strength)
+
+---
+
+# Miscellaneous
+
+## Gloves of Soul Catching Ability Scores
+
+| Ability | Score | Modifier |
+|---------|-------|----------|
+| Strength | 8 | — |
+| Dexterity | 16 | +2 |
+| Constitution | 15 | +1 |
+| Intelligence | 8 | — |
+| Wisdom | 20 | - |
+| Charisma | 9 | — |
+
