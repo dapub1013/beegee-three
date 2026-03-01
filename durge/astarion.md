@@ -116,14 +116,14 @@ Class Action: Action Surge
 
 ## Act 1
 
-[x] Amulet: [Moondrop Pendant](https://bg3.wiki/wiki/Moondrop_Pendant)
+[-] Amulet: [Moondrop Pendant](https://bg3.wiki/wiki/Moondrop_Pendant)
   - `Owlbear Nest` Found in a Selunite Gilded Chest; read the Selunite Prayer Sheet in front of the chest to unlock it `X: -321 Y: -135`
 
-[ ] Amulet: [Sentient Amulet](https://bg3.wiki/wiki/Sentient_Amulet)
+[x] Amulet: [Sentient Amulet](https://bg3.wiki/wiki/Sentient_Amulet)
   - Rare: `Grymforge` Found in a locked Adamantine Chest `X: -624 Y: 224`
   - Very Rare: `Open Hand Temple` Reward for completing *Help the Cursed Monk* quest.
 
-[ ] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
+[x] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
   - `Grymforge` Worn by **Nere**; looted from his corpse. `X: -854 Y: 780`
 
 [x] Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
