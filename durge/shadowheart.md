@@ -183,7 +183,7 @@ Feat: Ability Improvement
 [x] Boots: [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour)
   - `Ebonlake Grotto` Sold by **Omeluum **after completing the quest *Help Omeluum Investigate the Parasite*. `X: 144 Y: 29`
 
-[ ] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
+[-] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
   - `Grymforge` Worn by **Nere**; looted from his corpse. `X: -854 Y: 780`
 
 [ ] Gloves: [Gloves of Belligerent Skies](https://bg3.wiki/wiki/Gloves_of_Belligerent_Skies)
