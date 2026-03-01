@@ -166,7 +166,7 @@ Feat: Alert
 [ ] Gloves: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_dexterity)
   - `Crèche Y'llek` Sold by **A'jak'nir Jeera**. `X: 1380 Y: -798`
 
-[ ] Gloves: [Gloves of the Growling Underdog](https://bg3.wiki/wiki/Gloves_of_the_Growling_Underdog)
+[x] Gloves: [Gloves of the Growling Underdog](https://bg3.wiki/wiki/Gloves_of_the_Growling_Underdog)
   - `Shattered Sanctum` Inside treasure crates behind the locked iron gate in **Dror Ragzlin's** area. `X: 298 Y: 66`
 
 [x] Ring: [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
