@@ -199,7 +199,7 @@ Spells 4/4:
   - `Inner Sanctum` Carried by **Kagha** in the Emerald Grove in Act 1. `X: -461 Y: -22`
   - `High Hall` On a table of goods, owned by **Koll** in Act 3. `X: 235 Y: 44`
 
-[ ] Armour: [The Graceful Cloth](https://bg3.wiki/wiki/The_Graceful_Cloth)
+[x] Armour: [The Graceful Cloth](https://bg3.wiki/wiki/The_Graceful_Cloth)
   - `Rosymorn Monastery Trail` Sold by **Lady Esther**, north-east of the Trielta Crags waypoint. `X: -43 Y: -129`
 
 [x] Boots: [Boots of Striding](https://bg3.wiki/wiki/Boots_of_Striding)

@@ -199,7 +199,9 @@ Feat: Ability Improvement
   - `Underdark` Leaning against a table in the basement of the Arcane Tower. `X: 164 Y: 432`
 
 [ ] Ring: [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)
-  - `Camp` Sold by **Volo**. (?)
+  - `Goblin Camp` Sold by **Grat the Trader**. `X: -99 Y: 424`
+  - `Sacred Pool` Sold by **Volo**. `X: 260 Y: 510`
+  - `Camp` Sold by **Volo**.
 
 ## Act 2
 
