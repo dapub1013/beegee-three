@@ -150,7 +150,7 @@ Class Action: Action Surge
 [x] Shortsword: [Shortsword of First Blood](https://bg3.wiki/wiki/Shortsword_of_First_Blood)
   - `Underdark` Looted from an executed Deep Gnome corpse near the Myconid Colony entrance. `X: 73 Y: -187`
 
-[ ] Shortsword: [Knife of the Undermountain King](https://bg3.wiki/wiki/Knife_of_the_Undermountain_King)
+[x] Shortsword: [Knife of the Undermountain King](https://bg3.wiki/wiki/Knife_of_the_Undermountain_King)
   - `Crèche Y'llek` Sold by **A'jak'nir Jeera**. `X: 1380 Y: -798` **Note:** Off-hand weapon for the entire playthrough.
 
 ---

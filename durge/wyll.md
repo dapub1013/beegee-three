@@ -154,7 +154,7 @@ Feat: Alert
 [x] Armour: [Adamantine Scale Mail](https://bg3.wiki/wiki/Adamantine_Scale_Mail)
   - `Adamantine Forge` Forged from a **Splint Mould** and **Mithral Ore**. `X: -558 Y: 230`
 
-[ ] Boots: [Vital Conduit Boots](https://bg3.wiki/wiki/Vital_Conduit_Boots)
+[x] Boots: [Vital Conduit Boots](https://bg3.wiki/wiki/Vital_Conduit_Boots)
   - `Crèche Y'llek` Sold by **A'jak'nir Jeera**. `X: 1380 Y: -798`
 
 [-] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
@@ -163,7 +163,7 @@ Feat: Alert
 [-] Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
   - `Blighted Village` Inside a Moss-Covered Chest near the well. `X: 29 Y: 405`
 
-[ ] Gloves: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_dexterity)
+[x] Gloves: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_dexterity)
   - `Crèche Y'llek` Sold by **A'jak'nir Jeera**. `X: 1380 Y: -798`
 
 [x] Gloves: [Gloves of the Growling Underdog](https://bg3.wiki/wiki/Gloves_of_the_Growling_Underdog)
