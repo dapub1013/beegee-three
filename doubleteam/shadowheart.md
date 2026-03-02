@@ -178,7 +178,7 @@ Feat: Ability Improvement
 [ ] Boots: [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour)
   - `Ebonlake Grotto` Sold by **Omeluum **after completing the quest *Help Omeluum Investigate the Parasite*. `X: 144 Y: 29`
 
-[ ] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
+[-] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
   - `Grymforge` Worn by **Nere**; looted from his corpse. `X: -854 Y: 780`
 
 [x] Gloves: [Gloves of Belligerent Skies](https://bg3.wiki/wiki/Gloves_of_Belligerent_Skies)
@@ -206,7 +206,7 @@ Feat: Ability Improvement
 [ ] Quarterstave: [Staff of Cherished Necromancy](https://bg3.wiki/wiki/Staff_of_Cherished_Necromancy)
   - `Philgrave's Mansion` Carried by **Mystic Carrion**. `X: 14 Y: -160`
 
-[ ] Ring: [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)
+[x] Ring: [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)
   - `Goblin Camp` Sold by **Grat the Trader**. `X: -99 Y: 424`
   - `Sacred Pool` Sold by **Volo**. `X: 260 Y: 510`
   - `Camp` Sold by **Volo**.

@@ -97,7 +97,7 @@ Class: Monk
 
 # Items
 
-[ ] Amulet: [Khalid's Gift](https://bg3.wiki/wiki/Khalid%27s_Gift)
+[x] Amulet: [Khalid's Gift](https://bg3.wiki/wiki/Khalid%27s_Gift)
   - `Elerrathin's Home` In a display case in the basement. `X: -1572 Y: 976` **Note:** May not be available if Jaheira is not recruited. (?)
 
 [x] Amulet: [Moondrop Pendant](https://bg3.wiki/wiki/Moondrop_Pendant)
@@ -107,12 +107,6 @@ Class: Monk
   - `Sorcerous Sundries` Sold by **Lorroakan's Projection** if Rolan is dead.
   - `Sorcerous Sundries` Sold by **Rolan** if Rolan and Lorroakan are both alive.
   - `Ramazith's Tower` Sold by **Rolan** via trade option on the bottom left during the dialogue if Rolan is alive but Lorroakan is dead.
-
-[ ] Boots: [Boots of Genial Striding](https://bg3.wiki/wiki/Boots_of_Genial_Striding)
-  - `Ebonlake Grotto` Sold by **Blurg**. `X: 111 Y: -89`
-
-[ ] Boots: [Boots of Uninhibited Kushigo](https://bg3.wiki/wiki/Boots_of_Uninhibited_Kushigo)
-  - `Astral Plane` Carried by **Prelate Lir'i'c** as entering Act 3. `X: -163 Y: -1158`
 
 [x] Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
   - `Last Light Inn` Sold by **Quartermaster Talli** near the Last Light Inn waypoint. `X: -31 Y: 130`

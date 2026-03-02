@@ -169,7 +169,7 @@ Feat: Alert
 [x] Helmet: [Birthright](https://bg3.wiki/wiki/Birthright)
   - `Sorcerous Sundries` Sold by **Rolan** on the ground floor.
 
-[ ] Scimitar: [Belm](https://bg3.wiki/wiki/Belm)
+[x] Scimitar: [Belm](https://bg3.wiki/wiki/Belm)
   - `Lower City` Inside an opulent chest behind a locked bookcase in the basement of **Elerrathin's Home** (requires DC Sleight of Hand 18). `X: -1572 Y: 976`
 
 [ ] Longbow: [The Dead Shot](https://bg3.wiki/wiki/The_Dead_Shot)
