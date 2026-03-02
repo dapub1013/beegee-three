@@ -89,7 +89,7 @@ Feat: Mage Slayer
 
 ## Act 1
 
-[ ] Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
+[-] Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
   - `High Hall` On a table of goods, owned by **Koll** in Act 3. `X: 235 Y: 44`
 
 [x] Armour: [Reaper's Embrace](https://bg3.wiki/wiki/Reaper%27s_Embrace)
