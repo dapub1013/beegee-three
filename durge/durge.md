@@ -211,7 +211,7 @@ Spells 4/4:
 [x] Gloves: [Gloves of Archery](https://bg3.wiki/wiki/Gloves_of_Archery)
   - `Goblin Camp` Sold by **Grat the Trader**. `X: -99 Y: 424`
 
-[ ] Helmet: [Diadem of Arcane Synergy](https://bg3.wiki/wiki/Diadem_of_Arcane_Synergy)
+[x] Helmet: [Diadem of Arcane Synergy](https://bg3.wiki/wiki/Diadem_of_Arcane_Synergy)
   - `Crèche Y'llek` Carried by **Ardent Jhe'rezath** in the Inquisitor's Chamber `X: 1365 Y: -663`
 
 [x] Longbow: [Titanstring Bow](https://bg3.wiki/wiki/Titanstring_Bow)
@@ -219,7 +219,7 @@ Spells 4/4:
   - `Moonrise Towers` Sold by **Lann Tarv** on the main floor, only if Brem's special stock was not unlocked before by completing *Find the Missing Shipment*. `X: -164 Y: -167`
   - **Note:** Use **Elixir of Hill Giant Strength** after equipping Titanstring Bow until looting [Club of Hill Giant Strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength).
 
-[ ] Ring: [Strange Conduit Ring](https://bg3.wiki/wiki/Strange_Conduit_Ring)
+[x] Ring: [Strange Conduit Ring](https://bg3.wiki/wiki/Strange_Conduit_Ring)
   - `Crèche Y'llek` Inside an elegant chest in **Inquisitor's Chamber**. `X: 1360 Y: -657`
 
 [ ] Ring: [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)

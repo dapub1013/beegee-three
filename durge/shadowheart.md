@@ -186,7 +186,7 @@ Feat: Ability Improvement
 [-] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
   - `Grymforge` Worn by **Nere**; looted from his corpse. `X: -854 Y: 780`
 
-[ ] Gloves: [Gloves of Belligerent Skies](https://bg3.wiki/wiki/Gloves_of_Belligerent_Skies)
+[x] Gloves: [Gloves of Belligerent Skies](https://bg3.wiki/wiki/Gloves_of_Belligerent_Skies)
   - `Crèche Y'llek` In an elegant chest in the **Inquisitor's Chamber**, along the southern wall of the room, on the western side. `X: 1348 Y: -677`
 
 [x] Gloves: [Hellrider's Pride](https://bg3.wiki/wiki/Hellrider%27s_Pride)

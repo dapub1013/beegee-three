@@ -138,7 +138,7 @@ Class Action: Action Surge
 [-] Ring: [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
   - `Ebonlake Grotto` Sold by **Derryth Bonecloak** in the Underdark. `X: -55 Y: -93`
 
-[ ] Ring: [Strange Conduit Ring](https://bg3.wiki/wiki/Strange_Conduit_Ring)
+[-] Ring: [Strange Conduit Ring](https://bg3.wiki/wiki/Strange_Conduit_Ring)
   - `Crèche Y'llek` Inside an elegant chest in **Inquisitor's Chamber**. `X: 1360 Y: -657`
 
 [-] Shortbow: [Hunting Shortbow](https://bg3.wiki/wiki/Hunting_Shortbow)
