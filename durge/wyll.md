@@ -191,7 +191,7 @@ Feat: Alert
 [ ] Armour: [Helldusk Armor](https://bg3.wiki/wiki/Helldusk_armor)
   - `House of Hope` Carried by **Raphael**. `X: -6477 Y: 2884`
 
-[ ] Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
+[x] Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
   - `Last Light Inn` Sold by **Quartermaster Talli** near the Last Light Inn waypoint. `X: -31 Y: 130`
 
 [ ] Gloves: [Helldusk Gloves](https://bg3.wiki/wiki/Helldusk_Gloves)
@@ -200,7 +200,7 @@ Feat: Alert
 [ ] Helmet: [Birthright](https://bg3.wiki/wiki/Birthright)
   - `Sorcerous Sundries` Sold by **Rolan** on the ground floor.
 
-[ ] Ring: [Ring of Arcane Synergy](https://bg3.wiki/wiki/Ring_of_Arcane_Synergy)
+[x] Ring: [Ring of Arcane Synergy](https://bg3.wiki/wiki/Ring_of_Arcane_Synergy)
   - `Crèche Y'llek` Looted from **Gish Far'aag** at the crèche entrance. `X: 1359 Y: -831`
 
 [ ] Scimitar: [Belm](https://bg3.wiki/wiki/Belm)
