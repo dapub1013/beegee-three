@@ -1,6 +1,6 @@
 # The Hexblade Warlock
 
-[Build Reference](https://www.youtube.com/watch?v=VZCKE2e9BPw) | [↓ Items](#items)
+Build Reference: [Early Game](https://www.youtube.com/watch?v=VZCKE2e9BPw) | [Late Game](https://www.youtube.com/watch?v=S1ykZUJJsd0) | [↓ Items](#items)
 
 ---
 
