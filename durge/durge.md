@@ -237,10 +237,10 @@ Spells 4/4:
 
 ## Act 2
 
-[ ] Armour: [Yuan-Ti Scale Mail](https://bg3.wiki/wiki/Yuan-Ti_Scale_Mail)
+[x] Armour: [Yuan-Ti Scale Mail](https://bg3.wiki/wiki/Yuan-Ti_Scale_Mail)
   - `Last Light Inn` Sold by **Quartermaster Talli** near the Last Light Inn waypoint. `X: -31 Y: 130`
 
-[ ] Cloak: [Cloak of Cunning Brume](https://bg3.wiki/wiki/Cloak_of_Cunning_Brume)
+[-] Cloak: [Cloak of Cunning Brume](https://bg3.wiki/wiki/Cloak_of_Cunning_Brume)
   - `Last Light Inn` Sold by **Mattis**. `X: -56 Y: 141`
 
 [ ] Gloves: [Flawed Helldusk Gloves](https://bg3.wiki/wiki/Flawed_Helldusk_Gloves)
@@ -250,7 +250,7 @@ Spells 4/4:
   - `Moonrise Towers` Sold by **Araj Oblodra** on the main floor. `X: -128 Y: -193`
   - `Lower City` Sold by **Araj Oblodra** in Crimson Draughts if not acquired from her in Act 2. `X: -92 Y: -78`
 
-[ ] Ring: [Snowburst Ring](https://bg3.wiki/wiki/Snowburst_Ring)
+[x] Ring: [Snowburst Ring](https://bg3.wiki/wiki/Snowburst_Ring)
   - `Last Light Inn` Found tucked away inside a loose plan *(Perception check required to spot)*. `X: -80 Y: 158`
 
 [ ] Shield: [Sentinel Shield](https://bg3.wiki/wiki/Sentinel_Shield)

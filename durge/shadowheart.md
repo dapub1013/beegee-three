@@ -214,7 +214,7 @@ Feat: Ability Improvement
 [ ] Helmet: [Fistbreaker Helm](https://bg3.wiki/wiki/Fistbreaker_Helm)
   - `Moonrise Towers` Sold by **Lann Tarv** on the main floor. `X: -164 Y: -167`
 
-[ ] Ring: [Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)
+[x] Ring: [Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)
   - `Last Light Inn` In a trapped heavy chest in the cellar of the Last Light Inn. `X: 44 Y: -734`
 
 [ ] Ring: [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)
