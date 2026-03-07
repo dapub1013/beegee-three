@@ -160,22 +160,22 @@ Class Action: Action Surge
 [-] Armour: [Yuan-Ti Scale Mail](https://bg3.wiki/wiki/Yuan-Ti_Scale_Mail)
   - `Last Light Inn` Sold by **Quartermaster Talli** near the Last Light Inn waypoint. `X: -31 Y: 130`
 
-[ ] Cloak: [Cloak of Cunning Brume](https://bg3.wiki/wiki/Cloak_of_Cunning_Brume)
+[-] Cloak: [Cloak of Cunning Brume](https://bg3.wiki/wiki/Cloak_of_Cunning_Brume)
   - `Last Light Inn` Sold by **Mattis**. `X: -56 Y: 141`
 
-[ ] Gloves: [Flawed Helldusk Gloves](https://bg3.wiki/wiki/Flawed_Helldusk_Gloves)
+[-] Gloves: [Flawed Helldusk Gloves](https://bg3.wiki/wiki/Flawed_Helldusk_Gloves)
   - `Last Light Inn` Crafted by **Dammon** after giving him a third piece of **Infernal Iron**. `X: -33 Y: 164`
 
 [x] Helmet: [Covert Cowl](https://bg3.wiki/wiki/Covert_Cowl)
   - `Last Light Inn` Looted from a **Meenlock** in the cellar. `X: 33 Y: -697`
 
-[ ] Ring: [Eversight Ring](https://bg3.wiki/wiki/Eversight_Ring) **Note:** Priority acquisition
+[x] Ring: [Eversight Ring](https://bg3.wiki/wiki/Eversight_Ring) **Note:** Priority acquisition
   - `House of Healing` Found in a locked opulent chest in the corner of the morgue lab west of the zombie crypt. `X: 9 Y: -981`
 
 [ ] Ring: [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked_Ring)
   - `Shadow-Cursed Lands` Looted from the **Shadow Mastiff Alpha**. `X: -49 Y: 36`
 
-[ ] Shortsword: [Sword of Life Stealing](https://bg3.wiki/wiki/Sword_of_Life_Stealing)
+[x] Shortsword: [Sword of Life Stealing](https://bg3.wiki/wiki/Sword_of_Life_Stealing)
   - `Last Light Inn` Sold by **Dammon**. `X: -33 Y: 164`
 
 ---

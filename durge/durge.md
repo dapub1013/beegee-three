@@ -243,17 +243,17 @@ Spells 4/4:
 [-] Cloak: [Cloak of Cunning Brume](https://bg3.wiki/wiki/Cloak_of_Cunning_Brume)
   - `Last Light Inn` Sold by **Mattis**. `X: -56 Y: 141`
 
-[ ] Gloves: [Flawed Helldusk Gloves](https://bg3.wiki/wiki/Flawed_Helldusk_Gloves)
+[x] Gloves: [Flawed Helldusk Gloves](https://bg3.wiki/wiki/Flawed_Helldusk_Gloves)
   - `Last Light Inn` Crafted by **Dammon** after giving him a third piece of **Infernal Iron**. `X: -33 Y: 164`
 
-[ ] Ring: [Risky Ring](https://bg3.wiki/wiki/Risky_Ring)
+[x] Ring: [Risky Ring](https://bg3.wiki/wiki/Risky_Ring)
   - `Moonrise Towers` Sold by **Araj Oblodra** on the main floor. `X: -128 Y: -193`
   - `Lower City` Sold by **Araj Oblodra** in Crimson Draughts if not acquired from her in Act 2. `X: -92 Y: -78`
 
 [x] Ring: [Snowburst Ring](https://bg3.wiki/wiki/Snowburst_Ring)
   - `Last Light Inn` Found tucked away inside a loose plan *(Perception check required to spot)*. `X: -80 Y: 158`
 
-[ ] Shield: [Sentinel Shield](https://bg3.wiki/wiki/Sentinel_Shield)
+[x] Shield: [Sentinel Shield](https://bg3.wiki/wiki/Sentinel_Shield)
   - `Moonrise Towers` Sold by **Lann Tarv** on the main floor. `X: -164 Y: -167`
 
 ---

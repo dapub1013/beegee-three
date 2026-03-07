@@ -211,7 +211,7 @@ Feat: Ability Improvement
 [ ] Cloak: [Vivacious Cloak](https://bg3.wiki/wiki/Vivacious_Cloak)
   - `Grand Mausoleum` In a locked traveller's chest in the south-east corner. `X: -257 Y: -886`
 
-[ ] Helmet: [Fistbreaker Helm](https://bg3.wiki/wiki/Fistbreaker_Helm)
+[x] Helmet: [Fistbreaker Helm](https://bg3.wiki/wiki/Fistbreaker_Helm)
   - `Moonrise Towers` Sold by **Lann Tarv** on the main floor. `X: -164 Y: -167`
 
 [x] Ring: [Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)
