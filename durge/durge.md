@@ -219,7 +219,7 @@ Spells 4/4:
   - `Moonrise Towers` Sold by **Lann Tarv** on the main floor, only if Brem's special stock was not unlocked before by completing *Find the Missing Shipment*. `X: -164 Y: -167`
   - **Note:** Use **Elixir of Hill Giant Strength** after equipping Titanstring Bow until looting [Club of Hill Giant Strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength).
 
-[x] Ring: [Strange Conduit Ring](https://bg3.wiki/wiki/Strange_Conduit_Ring)
+[-] Ring: [Strange Conduit Ring](https://bg3.wiki/wiki/Strange_Conduit_Ring)
   - `Crèche Y'llek` Inside an elegant chest in **Inquisitor's Chamber**. `X: 1360 Y: -657`
 
 [ ] Ring: [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)

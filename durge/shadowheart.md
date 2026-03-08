@@ -208,7 +208,7 @@ Feat: Ability Improvement
 [ ] Cloak: [Cloak of Elemental Absorption](https://bg3.wiki/wiki/Cloak_of_Elemental_Absorption)
   - `Moonrise Towers` In an opulent chest in **Ketheric Thorm's** chambers on the second floor. `X: -170 Y: -171`
 
-[ ] Cloak: [Vivacious Cloak](https://bg3.wiki/wiki/Vivacious_Cloak)
+[xd] Cloak: [Vivacious Cloak](https://bg3.wiki/wiki/Vivacious_Cloak)
   - `Grand Mausoleum` In a locked traveller's chest in the south-east corner. `X: -257 Y: -886`
 
 [x] Helmet: [Fistbreaker Helm](https://bg3.wiki/wiki/Fistbreaker_Helm)
@@ -217,7 +217,7 @@ Feat: Ability Improvement
 [x] Ring: [Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)
   - `Last Light Inn` In a trapped heavy chest in the cellar of the Last Light Inn. `X: 44 Y: -734`
 
-[ ] Ring: [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)
+[x] Ring: [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)
   - `Gauntlet of Shar` In an opulent chest in the vault room near **Balthazar**. `X: -821 Y: -752`
 
 [ ] Shield: [Ketheric's Shield](https://bg3.wiki/wiki/Ketheric%27s_Shield)
