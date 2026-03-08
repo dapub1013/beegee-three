@@ -172,7 +172,7 @@ Class Action: Action Surge
 [x] Ring: [Eversight Ring](https://bg3.wiki/wiki/Eversight_Ring) **Note:** Priority acquisition
   - `House of Healing` Found in a locked opulent chest in the corner of the morgue lab west of the zombie crypt. `X: 9 Y: -981`
 
-[ ] Ring: [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked_Ring)
+[x] Ring: [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked_Ring)
   - `Shadow-Cursed Lands` Looted from the **Shadow Mastiff Alpha**. `X: -49 Y: 36`
 
 [x] Shortsword: [Sword of Life Stealing](https://bg3.wiki/wiki/Sword_of_Life_Stealing)

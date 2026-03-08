@@ -181,7 +181,7 @@ Feat: Alert
 [-] Shield: [Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield)
   - `The Hollow` Sold by **Dammon** in the Emerald Grove. `X: 177 Y: 562`
 
-[ ] Shortbow: [Bow of Awareness](https://bg3.wiki/wiki/Bow_of_Awareness)
+[x] Shortbow: [Bow of Awareness](https://bg3.wiki/wiki/Bow_of_Awareness)
   - `Shattered Sanctum` Sold by **Roah Moonglow**. `X: 272 Y: -31`
 
 ---
