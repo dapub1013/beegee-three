@@ -114,69 +114,27 @@ Class Action: Action Surge
 
 # Items
 
-## Act 1
+## Current
 
-[-] Amulet: [Moondrop Pendant](https://bg3.wiki/wiki/Moondrop_Pendant)
-  - `Owlbear Nest` Found in a Selunite Gilded Chest; read the Selunite Prayer Sheet in front of the chest to unlock it `X: -321 Y: -135`
+[x] Amulet: [Sentient Amulet](https://bg3.wiki/wiki/Sentient_Amulet) **Very Rare:** `Open Hand Temple` Reward for completing *Help the Cursed Monk* quest.
 
-[x] Amulet: [Sentient Amulet](https://bg3.wiki/wiki/Sentient_Amulet)
-  - Rare: `Grymforge` Found in a locked Adamantine Chest `X: -624 Y: 224`
-  - Very Rare: `Open Hand Temple` Reward for completing *Help the Cursed Monk* quest.
+[x] Armour: [The Graceful Cloth](https://bg3.wiki/wiki/The_Graceful_Cloth)
 
 [x] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
-  - `Grymforge` Worn by **Nere**; looted from his corpse. `X: -854 Y: 780`
-
-[x] Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
-  - `Blighted Village` Inside a Moss-Covered Chest near the well. `X: 29 Y: 405`
 
 [x] Gloves: [Bracers of Defense](https://bg3.wiki/wiki/Bracers_of_defense)
-  - `Blighted Village` Found in a Gilded Chest in the Apothecary's Cellar. `X: -656 Y: -370`
-
-[x] Quarterstave: [Corellon's Grace](https://bg3.wiki/wiki/Corellon%27s_Grace)
-  - `The Hollow` Sold by **Auntie Ethel** in the Hollow in the Emerald Grove. `X: 192 Y: 546`
-
-[-] Ring: [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
-  - `Ebonlake Grotto` Sold by **Derryth Bonecloak** in the Underdark. `X: -55 Y: -93`
-
-[-] Ring: [Strange Conduit Ring](https://bg3.wiki/wiki/Strange_Conduit_Ring)
-  - `Crèche Y'llek` Inside an elegant chest in **Inquisitor's Chamber**. `X: 1360 Y: -657`
-
-[-] Shortbow: [Hunting Shortbow](https://bg3.wiki/wiki/Hunting_Shortbow)
-  - `The Hollow` Sold by **Dammon** in the Emerald Grove. `X: 177 Y: 562`
-
-[x] Shortbow: [Bow of the Banshee](https://bg3.wiki/wiki/Bow_of_the_Banshee)
-  - `Grymforge` Sold by **Corsair Greymon**. `X: -120 Y: -95`
-
-[x] Shortsword: [Shortsword of First Blood](https://bg3.wiki/wiki/Shortsword_of_First_Blood)
-  - `Underdark` Looted from an executed Deep Gnome corpse near the Myconid Colony entrance. `X: 73 Y: -187`
-
-[x] Shortsword: [Knife of the Undermountain King](https://bg3.wiki/wiki/Knife_of_the_Undermountain_King)
-  - `Crèche Y'llek` Sold by **A'jak'nir Jeera**. `X: 1380 Y: -798` **Note:** Off-hand weapon for the entire playthrough.
-
----
-
-### Act 2
-
-[-] Armour: [Yuan-Ti Scale Mail](https://bg3.wiki/wiki/Yuan-Ti_Scale_Mail)
-  - `Last Light Inn` Sold by **Quartermaster Talli** near the Last Light Inn waypoint. `X: -31 Y: 130`
-
-[-] Cloak: [Cloak of Cunning Brume](https://bg3.wiki/wiki/Cloak_of_Cunning_Brume)
-  - `Last Light Inn` Sold by **Mattis**. `X: -56 Y: 141`
-
-[-] Gloves: [Flawed Helldusk Gloves](https://bg3.wiki/wiki/Flawed_Helldusk_Gloves)
-  - `Last Light Inn` Crafted by **Dammon** after giving him a third piece of **Infernal Iron**. `X: -33 Y: 164`
 
 [x] Helmet: [Covert Cowl](https://bg3.wiki/wiki/Covert_Cowl)
-  - `Last Light Inn` Looted from a **Meenlock** in the cellar. `X: 33 Y: -697`
 
 [x] Ring: [Eversight Ring](https://bg3.wiki/wiki/Eversight_Ring) **Note:** Priority acquisition
-  - `House of Healing` Found in a locked opulent chest in the corner of the morgue lab west of the zombie crypt. `X: 9 Y: -981`
 
 [x] Ring: [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked_Ring)
-  - `Shadow-Cursed Lands` Looted from the **Shadow Mastiff Alpha**. `X: -49 Y: 36`
+
+[x] Shortbow: [Bow of the Banshee](https://bg3.wiki/wiki/Bow_of_the_Banshee)
+
+[x] Shortsword: [Knife of the Undermountain King](https://bg3.wiki/wiki/Knife_of_the_Undermountain_King) **Note:** Used throughout playthrough
 
 [x] Shortsword: [Sword of Life Stealing](https://bg3.wiki/wiki/Sword_of_Life_Stealing)
-  - `Last Light Inn` Sold by **Dammon**. `X: -33 Y: 164`
 
 ---
 

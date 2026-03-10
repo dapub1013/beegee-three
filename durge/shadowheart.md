@@ -172,53 +172,34 @@ Feat: Ability Improvement
 
 # Items
 
-## Act 1
+## Current
 
-[x] Armour: [Luminous Armour](https://bg3.wiki/wiki/Luminous_Armour)
-  - `Selûnite Outpost` in a locked and trapped opulent chest. `X: 176 Y: -247`
+[x] Armour: [Dark Justiciar Half-Plate (Very Rare)](https://bg3.wiki/wiki/Dark_Justiciar_Half-Plate_(Very_Rare))
 
-[x] Boots: [Boots of Aid and Comfort](https://bg3.wiki/wiki/Boots_of_Aid_and_Comfort)
-  - `Goblin Camp` Sold by **Grat the Trader**. `X: -99 Y: 424`
+[x] Boots: [Dark Justiciar Boots](https://bg3.wiki/wiki/Dark_Justiciar_Boots)
 
-[x] Boots: [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour)
-  - `Ebonlake Grotto` Sold by **Omeluum **after completing the quest *Help Omeluum Investigate the Parasite*. `X: 144 Y: 29`
+[ALT] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
 
-[-] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
-  - `Grymforge` Worn by **Nere**; looted from his corpse. `X: -854 Y: 780`
+[x] Cloak: [Vivacious Cloak](https://bg3.wiki/wiki/Vivacious_Cloak)
 
-[x] Gloves: [Gloves of Belligerent Skies](https://bg3.wiki/wiki/Gloves_of_Belligerent_Skies)
-  - `Crèche Y'llek` In an elegant chest in the **Inquisitor's Chamber**, along the southern wall of the room, on the western side. `X: 1348 Y: -677`
+[x] Gloves: [Dark Justiciar Gauntlets (Rare)](https://bg3.wiki/wiki/Dark_Justiciar_Gauntlets_(Rare))
 
-[x] Gloves: [Hellrider's Pride](https://bg3.wiki/wiki/Hellrider%27s_Pride)
-  - `Druid Grove` Carried by **Zevlor** and can be either looted from him, bought, stolen, or earned as reward for the quests *Kill Kagha* or *Investigate Kagha*. `X: -53 Y: 67`
+[x] Helmet: [Fistbreaker Helm](https://bg3.wiki/wiki/Fistbreaker_Helm)
 
 [x] Longsword: [Phalar Aluve](https://bg3.wiki/wiki/Phalar_Aluve)
-  - `Underdark` Embedded inside a rock. `X: 116 Y: -192`
 
-[x] Quarterstave: [Staff of Arcane Blessing](https://bg3.wiki/wiki/Staff_of_Arcane_Blessing)
-  - `Underdark` Leaning against a table in the basement of the Arcane Tower. `X: 164 Y: 432`
+[x] Ring: [Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)
 
-[ ] Ring: [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)
-  - `Goblin Camp` Sold by **Grat the Trader**. `X: -99 Y: 424`
-  - `Sacred Pool` Sold by **Volo**. `X: 260 Y: 510`
-  - `Camp` Sold by **Volo**.
+[x] Ring: [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)
+
+[x] Shield: **FILL IN WITH CURRENT ITEM**
+
+[x] Spear: [Shar's Spear of Evening](https://bg3.wiki/wiki/Shar%27s_Spear_of_Evening)
 
 ## Act 2
 
 [ ] Cloak: [Cloak of Elemental Absorption](https://bg3.wiki/wiki/Cloak_of_Elemental_Absorption)
   - `Moonrise Towers` In an opulent chest in **Ketheric Thorm's** chambers on the second floor. `X: -170 Y: -171`
-
-[xd] Cloak: [Vivacious Cloak](https://bg3.wiki/wiki/Vivacious_Cloak)
-  - `Grand Mausoleum` In a locked traveller's chest in the south-east corner. `X: -257 Y: -886`
-
-[x] Helmet: [Fistbreaker Helm](https://bg3.wiki/wiki/Fistbreaker_Helm)
-  - `Moonrise Towers` Sold by **Lann Tarv** on the main floor. `X: -164 Y: -167`
-
-[x] Ring: [Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)
-  - `Last Light Inn` In a trapped heavy chest in the cellar of the Last Light Inn. `X: 44 Y: -734`
-
-[x] Ring: [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)
-  - `Gauntlet of Shar` In an opulent chest in the vault room near **Balthazar**. `X: -821 Y: -752`
 
 [ ] Shield: [Ketheric's Shield](https://bg3.wiki/wiki/Ketheric%27s_Shield)
   - `Mind Flayer Colony` Carried by **Ketheric Thorm** when fought a second time. `X: 861 Y: -23`
@@ -235,24 +216,27 @@ Feat: Ability Improvement
 [ ] Quarterstave: [Staff of Cherished Necromancy](https://bg3.wiki/wiki/Staff_of_Cherished_Necromancy)
   - `Philgrave's Mansion` Carried by **Mystic Carrion**. `X: 14 Y: -160`
 
+[ ] Ring: [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)
+  - `Camp` Sold by **Volo**.
+
 ---
 
-### Notes:
+### Notes on Item Sets:
 
 "Buff on Heal" Item Set:
-- Hellrider's Pride
-- The Whispering Promise
-- Boots of Aid and Comfort
+- [x] Boots: [Boots of Aid and Comfort](https://bg3.wiki/wiki/Boots_of_Aid_and_Comfort)
+- [x] Gloves: [Hellrider's Pride](https://bg3.wiki/wiki/Hellrider%27s_Pride)
+- [ ] Ring: [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)
 
 "Radiating Orb" Item Set:
-- Luminous Armour
-- Coruscation Radiating
-- Callous Glow Ring
+- [x] Armour: [Luminous Armour](https://bg3.wiki/wiki/Luminous_Armour)
+- [x] Ring: [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)
+- [x] Ring: [Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)
 
 "Reverberation" Item Set:
-- Boots of Stormy Clamour
-- Gloves of Belligerent Skies
+- [x] Boots: [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour)
+- [x] Gloves: [Gloves of Belligerent Skies](https://bg3.wiki/wiki/Gloves_of_Belligerent_Skies)
 
 Anything that increases Spell Save DC:
-- Fistbreaker Helm
-- Ketheric's Shield
+- [x] Helmet: [Fistbreaker Helm](https://bg3.wiki/wiki/Fistbreaker_Helm)
+- [ ] Shield: [Ketheric's Shield](https://bg3.wiki/wiki/Ketheric%27s_Shield)

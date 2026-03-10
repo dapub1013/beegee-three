@@ -193,68 +193,31 @@ Spells 4/4:
 
 # Items
 
-## Act 1
+## Current
 
 [x] Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
-  - `Inner Sanctum` Carried by **Kagha** in the Emerald Grove in Act 1. `X: -461 Y: -22`
-  - `High Hall` On a table of goods, owned by **Koll** in Act 3. `X: 235 Y: 44`
-
-[x] Armour: [The Graceful Cloth](https://bg3.wiki/wiki/The_Graceful_Cloth)
-  - `Rosymorn Monastery Trail` Sold by **Lady Esther**, north-east of the Trielta Crags waypoint. `X: -43 Y: -129`
-
-[x] Boots: [Boots of Striding](https://bg3.wiki/wiki/Boots_of_Striding)
-  - `Shattered Sanctum` Worn by **Minthara**. `X: 335 Y: 43`
-
-[x] Club: [Club of Hill Giant Strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength)
-  - `Arcane Tower` Found by breaking the **Stool of Hill Giant Strength** on the highest floor of with **Bernard**. The stool is underneath the thatched roof section in the furtherst corner, standing upright. `X: -26 Y: -272`
-
-[x] Gloves: [Gloves of Archery](https://bg3.wiki/wiki/Gloves_of_Archery)
-  - `Goblin Camp` Sold by **Grat the Trader**. `X: -99 Y: 424`
-
-[x] Helmet: [Diadem of Arcane Synergy](https://bg3.wiki/wiki/Diadem_of_Arcane_Synergy)
-  - `Crèche Y'llek` Carried by **Ardent Jhe'rezath** in the Inquisitor's Chamber `X: 1365 Y: -663`
-
-[x] Longbow: [Titanstring Bow](https://bg3.wiki/wiki/Titanstring_Bow)
-  - `Zhentarim Basement` Sold by **Brem** after completing the quest *⁠Find the Missing Shipment*. `X: 295 Y: -250`
-  - `Moonrise Towers` Sold by **Lann Tarv** on the main floor, only if Brem's special stock was not unlocked before by completing *Find the Missing Shipment*. `X: -164 Y: -167`
-  - **Note:** Use **Elixir of Hill Giant Strength** after equipping Titanstring Bow until looting [Club of Hill Giant Strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength).
-
-[-] Ring: [Strange Conduit Ring](https://bg3.wiki/wiki/Strange_Conduit_Ring)
-  - `Crèche Y'llek` Inside an elegant chest in **Inquisitor's Chamber**. `X: 1360 Y: -657`
-
-[ ] Ring: [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)
-  - `Goblin Camp` Sold by **Grat the Trader**. `X: -99 Y: 424`
-  - `Sacred Pool` Sold by **Volo**. `X: 260 Y: 510`
-  - `Camp` Sold by **Volo**.
-
-[x] Shield: [Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield)
-  - `The Hollow` Sold by **Dammon** in the Emerald Grove. `X: 177 Y: 562`
-
-[-] Shortbow: [Bow of the Banshee](https://bg3.wiki/wiki/Bow_of_the_Banshee)
-  - `Grymforge` Sold by **Corsair Greymon**. `X: -120 Y: -95`
-
----
-
-## Act 2
 
 [x] Armour: [Yuan-Ti Scale Mail](https://bg3.wiki/wiki/Yuan-Ti_Scale_Mail)
-  - `Last Light Inn` Sold by **Quartermaster Talli** near the Last Light Inn waypoint. `X: -31 Y: 130`
 
-[-] Cloak: [Cloak of Cunning Brume](https://bg3.wiki/wiki/Cloak_of_Cunning_Brume)
-  - `Last Light Inn` Sold by **Mattis**. `X: -56 Y: 141`
+[x] Boots: [Boots of Striding](https://bg3.wiki/wiki/Boots_of_Striding)
+
+[x] Boots: [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour)
+
+[x] Club: [Club of Hill Giant Strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength)
 
 [x] Gloves: [Flawed Helldusk Gloves](https://bg3.wiki/wiki/Flawed_Helldusk_Gloves)
-  - `Last Light Inn` Crafted by **Dammon** after giving him a third piece of **Infernal Iron**. `X: -33 Y: 164`
+
+[x] Helmet: [Diadem of Arcane Synergy](https://bg3.wiki/wiki/Diadem_of_Arcane_Synergy)
+
+[x] Longbow: [Titanstring Bow](https://bg3.wiki/wiki/Titanstring_Bow)
 
 [x] Ring: [Risky Ring](https://bg3.wiki/wiki/Risky_Ring)
-  - `Moonrise Towers` Sold by **Araj Oblodra** on the main floor. `X: -128 Y: -193`
-  - `Lower City` Sold by **Araj Oblodra** in Crimson Draughts if not acquired from her in Act 2. `X: -92 Y: -78`
 
 [x] Ring: [Snowburst Ring](https://bg3.wiki/wiki/Snowburst_Ring)
-  - `Last Light Inn` Found tucked away inside a loose plan *(Perception check required to spot)*. `X: -80 Y: 158`
 
 [x] Shield: [Sentinel Shield](https://bg3.wiki/wiki/Sentinel_Shield)
-  - `Moonrise Towers` Sold by **Lann Tarv** on the main floor. `X: -164 Y: -167`
+
+[-] Shortbow: [Bow of the Banshee](https://bg3.wiki/wiki/Bow_of_the_Banshee) **Note:** Switch to this bow after Astarion equips **The Dead Shot**
 
 ---
 
@@ -262,9 +225,6 @@ Spells 4/4:
 
 [ ] Armour: [Armour of Agility](https://bg3.wiki/wiki/Armour_of_Agility)
   - `Lower City` Sold by **Gloomy Fentonson** at Stormshore Armoury. `X: -41 Y: -71`
-
-[x] Boots: [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour)
-  - `Ebonlake Grotto` Sold by **Omeluum **after completing the quest *Help Omeluum Investigate the Parasite*. `X: 144 Y: 29`
 
 [ ] Cloak: [Cloak of Displacement](https://bg3.wiki/wiki/Cloak_of_Displacement)
   - `Danthelon's Dancing Axe` Sold by **Entharl Danthelon** in Wyrm's Crossing. `X: -10 Y: 143 `
@@ -282,17 +242,5 @@ Spells 4/4:
 
 # Combat Strategy
 
-## Act 1
-- Eat goodberries
-- Cast **Hunter's Mark** on primary target; use **Spike Growth** on groups of enemies instead of Hunter's Mark.
-
----
-
 ## Act 2
 - Get the [Drakethroat Glaive](https://bg3.wiki/wiki/Drakethroat_Glaive) from **Roah Moonglow** on the ground floor of **Moonrise Towers** `X: -175 Y: -176`. Give it to any teammate and cast it on your hunter.
-
-- Continue following **Act 1** strategy.
-
-## Act 3
-
-`Placeholder`
