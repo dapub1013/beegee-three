@@ -180,8 +180,6 @@ Feat: Ability Improvement
 
 [ALT] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
 
-[x] Cloak: [Vivacious Cloak](https://bg3.wiki/wiki/Vivacious_Cloak)
-
 [x] Gloves: [Dark Justiciar Gauntlets (Rare)](https://bg3.wiki/wiki/Dark_Justiciar_Gauntlets_(Rare))
 
 [x] Helmet: [Fistbreaker Helm](https://bg3.wiki/wiki/Fistbreaker_Helm)
@@ -198,7 +196,7 @@ Feat: Ability Improvement
 
 ## Act 2
 
-[ ] Cloak: [Cloak of Elemental Absorption](https://bg3.wiki/wiki/Cloak_of_Elemental_Absorption)
+[x] Cloak: [Cloak of Elemental Absorption](https://bg3.wiki/wiki/Cloak_of_Elemental_Absorption)
   - `Moonrise Towers` In an opulent chest in **Ketheric Thorm's** chambers on the second floor. `X: -170 Y: -171`
 
 [ ] Shield: [Ketheric's Shield](https://bg3.wiki/wiki/Ketheric%27s_Shield)

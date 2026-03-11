@@ -1,6 +1,8 @@
 [-] Amulet: [Moondrop Pendant](https://bg3.wiki/wiki/Moondrop_Pendant)
   - `Owlbear Nest` Found in a Selunite Gilded Chest; read the Selunite Prayer Sheet in front of the chest to unlock it `X: -321 Y: -135`
 
+[x] Cloak: [Vivacious Cloak](https://bg3.wiki/wiki/Vivacious_Cloak)
+
 [x] Gloves: [Gloves of Archery](https://bg3.wiki/wiki/Gloves_of_Archery)
   - `Goblin Camp` Sold by **Grat the Trader**. `X: -99 Y: 424`
 
