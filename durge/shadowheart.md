@@ -178,29 +178,22 @@ Feat: Ability Improvement
 
 [x] Boots: [Dark Justiciar Boots](https://bg3.wiki/wiki/Dark_Justiciar_Boots)
 
-[ALT] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
-
 [x] Gloves: [Dark Justiciar Gauntlets (Rare)](https://bg3.wiki/wiki/Dark_Justiciar_Gauntlets_(Rare))
 
 [x] Helmet: [Fistbreaker Helm](https://bg3.wiki/wiki/Fistbreaker_Helm)
-
-[x] Longsword: [Phalar Aluve](https://bg3.wiki/wiki/Phalar_Aluve)
 
 [x] Ring: [Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)
 
 [x] Ring: [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)
 
-[x] Shield: **FILL IN WITH CURRENT ITEM**
-
 [x] Spear: [Shar's Spear of Evening](https://bg3.wiki/wiki/Shar%27s_Spear_of_Evening)
 
-## Act 2
+[x] Shield: [Ketheric's Shield](https://bg3.wiki/wiki/Ketheric%27s_Shield)
 
 [x] Cloak: [Cloak of Elemental Absorption](https://bg3.wiki/wiki/Cloak_of_Elemental_Absorption)
-  - `Moonrise Towers` In an opulent chest in **Ketheric Thorm's** chambers on the second floor. `X: -170 Y: -171`
 
-[ ] Shield: [Ketheric's Shield](https://bg3.wiki/wiki/Ketheric%27s_Shield)
-  - `Mind Flayer Colony` Carried by **Ketheric Thorm** when fought a second time. `X: 861 Y: -23`
+
+---
 
 ## Act 3
 

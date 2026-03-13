@@ -126,11 +126,11 @@ Class Action: Action Surge
 
 [x] Helmet: [Covert Cowl](https://bg3.wiki/wiki/Covert_Cowl)
 
+[x] Longbow: [Titanstring Bow](https://bg3.wiki/wiki/Titanstring_Bow)
+
 [x] Ring: [Eversight Ring](https://bg3.wiki/wiki/Eversight_Ring) **Note:** Priority acquisition
 
 [x] Ring: [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked_Ring)
-
-[x] Shortbow: [Bow of the Banshee](https://bg3.wiki/wiki/Bow_of_the_Banshee)
 
 [x] Shortsword: [Knife of the Undermountain King](https://bg3.wiki/wiki/Knife_of_the_Undermountain_King) **Note:** Used throughout playthrough
 

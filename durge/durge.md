@@ -209,15 +209,13 @@ Spells 4/4:
 
 [x] Helmet: [Diadem of Arcane Synergy](https://bg3.wiki/wiki/Diadem_of_Arcane_Synergy)
 
-[x] Longbow: [Titanstring Bow](https://bg3.wiki/wiki/Titanstring_Bow)
-
 [x] Ring: [Risky Ring](https://bg3.wiki/wiki/Risky_Ring)
 
 [x] Ring: [Snowburst Ring](https://bg3.wiki/wiki/Snowburst_Ring)
 
 [x] Shield: [Sentinel Shield](https://bg3.wiki/wiki/Sentinel_Shield)
 
-[-] Shortbow: [Bow of the Banshee](https://bg3.wiki/wiki/Bow_of_the_Banshee) **Note:** Switch to this bow after Astarion equips **The Dead Shot**
+[x] Shortbow: [Bow of the Banshee](https://bg3.wiki/wiki/Bow_of_the_Banshee)
 
 ---
 

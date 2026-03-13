@@ -147,13 +147,11 @@ Feat: Alert
 
 ## Current
 
-[X] Amulet: **FILL IN WITH CURRENT ITEM**
+[X] Amulet: Amulet of Misty Step
 
 [x] Armour: [Adamantine Scale Mail](https://bg3.wiki/wiki/Adamantine_Scale_Mail)
 
 [x] Boots: [Vital Conduit Boots](https://bg3.wiki/wiki/Vital_Conduit_Boots)
-
-[ALT] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
 
 [x] Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
 
@@ -165,9 +163,7 @@ Feat: Alert
 
 [x] Ring: [Ring of Arcane Synergy](https://bg3.wiki/wiki/Ring_of_Arcane_Synergy)
 
-[x] Shield: [Glowing Shield](https://bg3.wiki/wiki/Glowing_Shield)
-
-[ALT] Shield: [Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield)
+[x] Shield: [Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield)
 
 [x] Shortbow: [Bow of Awareness](https://bg3.wiki/wiki/Bow_of_Awareness)
 
