@@ -6,7 +6,7 @@
 
 ### Level 1
 
-Class: Paladin
+Class: Paladin Lv 1
 
 Subclass: Oath of the Ancients
 
@@ -25,26 +25,28 @@ Ability Points
 
 ### Level 2
 
-Class: Paladin
+Class: Paladin Lv 2
 
 Fighting Style: Defence
 
 Spells 2/2:
-- Divine Favour
 - Command
+- Searing Smite
+- Thunderous Smite
+- Wrathful Smite
 
 ---
 
 ### Level 3
 
-Class: Bard
+Class: Bard Lv 1
 
 Cantrips 2/2:
 - Vicious Mockery
 - Minor Illusion
 
 Spells 4/4:
-- Tasha's Hideous Whisper
+- Tasha's Hideous Laughter
 - Dissonant Whispers
 - Faerie Fire
 - Healing Word
@@ -53,29 +55,27 @@ Spells 4/4:
 
 ### Level 4
 
-Class: Bard
+Class: Bard Lv 2
 
-Spells:
-- Feather Fall
-- Disguise Self
+Spells 1/1: Feather Fall
 
 ---
 
 ### Level 5
 
-Class: Bard
+Class: Bard Lv 3
 
 Spells 1/1: Hold Person
 
 Subclass: College of Swords
 
-Fighting Style: Your Choice
+Fighting Style: Dealer's Choice
 
 ---
 
 ### Level 6
 
-Class: Bard
+Class: Bard Lv 4
 
 Cantrips 1/1: Blade Ward
 
@@ -87,7 +87,7 @@ Feat: Great Weapon Master
 
 ### Level 7
 
-Class: Bard
+Class: Bard Lv 5
 
 Spell 1/1: Glyph of Warding
 
@@ -95,21 +95,23 @@ Spell 1/1: Glyph of Warding
 
 ### Level 8
 
-Class: Bard
+Class: Bard Lv 6
 
-Spell 1/1: Hypnotize
+Spell 1/1: Hypnotic Pattern
 
 ---
 
 ### Level 9
 
-Class: Bard
+Class: Bard Lv 7
 
 Spell 1/1: Confusion
 
 ---
 
 ### Level 10
+
+Class: Bard Lv 8
 
 Spell 1/1: Enhance Ability
 
@@ -119,7 +121,7 @@ Feat: Savage Attacker
 
 ### Level 11
 
-Class: Bard
+Class: Bard Lv 9
 
 Spell 1/1: Hold Monster
 
@@ -127,7 +129,7 @@ Spell 1/1: Hold Monster
 
 ### Level 12
 
-Class: Bard
+Class: Bard Lv 10
 
 Cantrip 1/1: Friends
 
@@ -168,8 +170,6 @@ Magical Secrets 2/2:
   - `Jungle` In a backpack `X: -1566 Y: -1522`
 
 [ ] Ring: [Risky Ring](https://bg3.wiki/wiki/Risky_Ring)
-  - `Moonrise Towers` Sold by **Araj Oblodra** on the main floor. `X: -128 Y: -193`
-  - `Lower City` Sold by **Araj Oblodra** in Crimson Draughts if not acquired from her in Act 2. `X: -92 Y: -78`
 
 [ ] Trident: [Nyrulna](https://bg3.wiki/wiki/Nyrulna)
   - `Jungle` In a locked painted chest, near the portal to exit the area. `X: -1511 Y: -1522`
