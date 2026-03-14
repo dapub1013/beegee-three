@@ -167,12 +167,11 @@ Feat: Alert
 
 [x] Shortbow: [Bow of Awareness](https://bg3.wiki/wiki/Bow_of_Awareness)
 
+[ ] Item: [Resonance Stone](https://bg3.wiki/wiki/Resonance_Stone)
+
 ---
 
 ## Later
-
-[ ] Item: [Resonance Stone](https://bg3.wiki/wiki/Resonance_Stone)
-  - `Mind Flayer Colony` In a small area south-west of Necrotic Laboratory near the Mind-Archive Interface. `X: 692 Y: -114`
 
 
 [ ] Armour: [Helldusk Armor](https://bg3.wiki/wiki/Helldusk_armor)
@@ -181,16 +180,9 @@ Feat: Alert
 [ ] Gloves: [Helldusk Gloves](https://bg3.wiki/wiki/Helldusk_Gloves)
   - `House of Hope` Worn by **Haarlep** in the Boudoir. `X: -6478 Y: 2993`
 
-[ ] Helmet: [Birthright](https://bg3.wiki/wiki/Birthright)
+[x] Helmet: [Birthright](https://bg3.wiki/wiki/Birthright)
   - `Sorcerous Sundries` Sold by **Rolan** on the ground floor.
 
 [ ] Scimitar: [Belm](https://bg3.wiki/wiki/Belm)
   - `Lower City` Inside an opulent chest behind a locked bookcase in the basement of **Elerrathin's Home** (requires DC Sleight of Hand 18). `X: -1572 Y: 976`
-
-[ ] Longbow: [The Dead Shot](https://bg3.wiki/wiki/The_Dead_Shot)
-  - `Stormshore Armoury` Sold by **Fytz the Firecracker** near the Lower City Central Wall waypoint. `X: -36 Y: -83`
-
----
-
-### Notes:
 

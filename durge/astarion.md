@@ -116,7 +116,7 @@ Class Action: Action Surge
 
 ## Current
 
-[x] Amulet: [Sentient Amulet](https://bg3.wiki/wiki/Sentient_Amulet) **Very Rare:** `Open Hand Temple` Reward for completing *Help the Cursed Monk* quest.
+[x] Amulet: [Sentient Amulet](https://bg3.wiki/wiki/Sentient_Amulet)
 
 [x] Armour: [The Graceful Cloth](https://bg3.wiki/wiki/The_Graceful_Cloth)
 
@@ -164,5 +164,5 @@ Class Action: Action Surge
 [ ] Helmet: [Sarevok's Horned Helmet](https://bg3.wiki/wiki/Sarevok%27s_Horned_Helmet)
   - `Murder Tribunal` Carried by **Sarevok Anchev**. `X: -1248 Y: 503`
 
-[ ] Longbow: [The Dead Shot](https://bg3.wiki/wiki/The_Dead_Shot)
+[x] Longbow: [The Dead Shot](https://bg3.wiki/wiki/The_Dead_Shot)
   - `Stormshore Armoury` Sold by **Fytz the Firecracker** near the Lower City Central Wall waypoint. `X: -36 Y: -83`

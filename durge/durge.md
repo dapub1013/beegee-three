@@ -224,9 +224,6 @@ Spells 4/4:
 [ ] Armour: [Armour of Agility](https://bg3.wiki/wiki/Armour_of_Agility)
   - `Lower City` Sold by **Gloomy Fentonson** at Stormshore Armoury. `X: -41 Y: -71`
 
-[ ] Cloak: [Cloak of Displacement](https://bg3.wiki/wiki/Cloak_of_Displacement)
-  - `Danthelon's Dancing Axe` Sold by **Entharl Danthelon** in Wyrm's Crossing. `X: -10 Y: 143 `
-
 [ ] Dagger: [Rhapsody](https://bg3.wiki/wiki/Rhapsody)
   - `Cazador's Dungeon` Carried by **Cazador Szarr**. `X: -1925 Y: 944`
 
