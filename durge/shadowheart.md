@@ -197,10 +197,6 @@ Feat: Ability Improvement
 
 ## Act 3
 
-[ ] Mace: [Devotee's Mace](https://bg3.wiki/wiki/Devotee%27s_Mace)
-  - Obtained from casting the **Arm Thy Servant** variant of Divine Intervention.
-  - Once the party is level 10, they can hire a cleric, have them cast **Arm Thy Servant**, then trade this weapon to another party member.
-
 [ ] Quarterstave: [Markoheshkir](https://bg3.wiki/wiki/Markoheshkir)
   - `Ramazith's Tower` In a **Globe of Invulnerability**. `X: 4970 Y: 705`
 
