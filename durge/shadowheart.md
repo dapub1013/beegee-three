@@ -206,24 +206,3 @@ Feat: Ability Improvement
 [ ] Ring: [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)
   - `Camp` Sold by **Volo**.
 
----
-
-### Notes on Item Sets:
-
-"Buff on Heal" Item Set:
-- [x] Boots: [Boots of Aid and Comfort](https://bg3.wiki/wiki/Boots_of_Aid_and_Comfort)
-- [x] Gloves: [Hellrider's Pride](https://bg3.wiki/wiki/Hellrider%27s_Pride)
-- [ ] Ring: [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)
-
-"Radiating Orb" Item Set:
-- [x] Armour: [Luminous Armour](https://bg3.wiki/wiki/Luminous_Armour)
-- [x] Ring: [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)
-- [x] Ring: [Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)
-
-"Reverberation" Item Set:
-- [x] Boots: [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour)
-- [x] Gloves: [Gloves of Belligerent Skies](https://bg3.wiki/wiki/Gloves_of_Belligerent_Skies)
-
-Anything that increases Spell Save DC:
-- [x] Helmet: [Fistbreaker Helm](https://bg3.wiki/wiki/Fistbreaker_Helm)
-- [ ] Shield: [Ketheric's Shield](https://bg3.wiki/wiki/Ketheric%27s_Shield)

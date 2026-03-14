@@ -227,8 +227,5 @@ Spells 4/4:
 [ ] Dagger: [Rhapsody](https://bg3.wiki/wiki/Rhapsody)
   - `Cazador's Dungeon` Carried by **Cazador Szarr**. `X: -1925 Y: 944`
 
-[ ] Helmet: [Helmet of Arcane Acuity](https://bg3.wiki/wiki/Helmet_of_Arcane_Acuity)
-  - `Lower City` Found in a locked Gilded Chest in the Mason's Guild basement. `X: 107 Y: -758`
-
 [ ] Shortsword: [Ambusher](https://bg3.wiki/wiki/Ambusher)
   - `Rivington General` Sold by **Exxvikyap** in Rivington during Act 3. `X: 7 Y: -35`

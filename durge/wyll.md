@@ -163,7 +163,7 @@ Feat: Alert
 
 [x] Ring: [Ring of Arcane Synergy](https://bg3.wiki/wiki/Ring_of_Arcane_Synergy)
 
-[x] Shield: [Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield)
+[x] Scimitar: [Belm](https://bg3.wiki/wiki/Belm)
 
 [x] Shortbow: [Bow of Awareness](https://bg3.wiki/wiki/Bow_of_Awareness)
 
@@ -171,14 +171,11 @@ Feat: Alert
 
 ---
 
-## Later
+## Act 3
 
 [ ] Armour: [Helldusk Armor](https://bg3.wiki/wiki/Helldusk_armor)
   - `House of Hope` Carried by **Raphael**. `X: -6477 Y: 2884`
 
 [ ] Gloves: [Helldusk Gloves](https://bg3.wiki/wiki/Helldusk_Gloves)
   - `House of Hope` Worn by **Haarlep** in the Boudoir. `X: -6478 Y: 2993`
-
-[ ] Scimitar: [Belm](https://bg3.wiki/wiki/Belm)
-  - `Lower City` Inside an opulent chest behind a locked bookcase in the basement of **Elerrathin's Home** (requires DC Sleight of Hand 18). `X: -1572 Y: 976`
 

@@ -122,11 +122,13 @@ Class Action: Action Surge
 
 [x] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
 
+[x] Cloak: [Shade-Slayer Cloak](https://bg3.wiki/wiki/Shade-Slayer_Cloak)
+
 [x] Gloves: [Bracers of Defense](https://bg3.wiki/wiki/Bracers_of_defense)
 
 [x] Helmet: [Covert Cowl](https://bg3.wiki/wiki/Covert_Cowl)
 
-[x] Longbow: [Titanstring Bow](https://bg3.wiki/wiki/Titanstring_Bow)
+[x] Longbow: [The Dead Shot](https://bg3.wiki/wiki/The_Dead_Shot)
 
 [x] Ring: [Eversight Ring](https://bg3.wiki/wiki/Eversight_Ring) **Note:** Priority acquisition
 
@@ -149,9 +151,6 @@ Class Action: Action Surge
 [ ] Boots: [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots)
   - `Wyrm's Rock Fortress` Found in a locked Gilded Chest on the top floor. `X: -32 Y: 219`
 
-[ ] Cloak: [Shade-Slayer Cloak](https://bg3.wiki/wiki/Shade-Slayer_Cloak)
-  - `Lower City` Sold by **Sticky Dondo** in the Guildhall. `X: -17 Y: 755`
-
 [ ] Dagger: [Bloodthirst](https://bg3.wiki/wiki/Bloodthirst)
   - `Bhaal Temple` Carried by **Orin** during the quest *⁠Get Orin's Netherstone*. `X: 61 Y: 1004`
 
@@ -161,5 +160,3 @@ Class Action: Action Surge
 [ ] Helmet: [Sarevok's Horned Helmet](https://bg3.wiki/wiki/Sarevok%27s_Horned_Helmet)
   - `Murder Tribunal` Carried by **Sarevok Anchev**. `X: -1248 Y: 503`
 
-[x] Longbow: [The Dead Shot](https://bg3.wiki/wiki/The_Dead_Shot)
-  - `Stormshore Armoury` Sold by **Fytz the Firecracker** near the Lower City Central Wall waypoint. `X: -36 Y: -83`
