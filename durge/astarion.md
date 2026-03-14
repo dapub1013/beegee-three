@@ -158,9 +158,6 @@ Class Action: Action Surge
 [ ] Gloves: [Helldusk Gloves](https://bg3.wiki/wiki/Helldusk_Gloves)
   - `House of Hope` Worn by **Haarlep** in the Boudoir. `X: -6478 Y: 2993`
 
-[ ] Gloves: [Legacy of the Masters](https://bg3.wiki/wiki/Legacy_of_the_Masters)
-  - `Forge of the Nine` Sold by **Dammon** in Act 3. `X: 392 Y: 766`
-
 [ ] Helmet: [Sarevok's Horned Helmet](https://bg3.wiki/wiki/Sarevok%27s_Horned_Helmet)
   - `Murder Tribunal` Carried by **Sarevok Anchev**. `X: -1248 Y: 503`
 

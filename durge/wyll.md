@@ -155,9 +155,9 @@ Feat: Alert
 
 [x] Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
 
-[x] Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
-
 [x] Gloves: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_dexterity)
+
+[x] Helmet: [Birthright](https://bg3.wiki/wiki/Birthright)
 
 [x] Ring: [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
 
@@ -173,15 +173,11 @@ Feat: Alert
 
 ## Later
 
-
 [ ] Armour: [Helldusk Armor](https://bg3.wiki/wiki/Helldusk_armor)
   - `House of Hope` Carried by **Raphael**. `X: -6477 Y: 2884`
 
 [ ] Gloves: [Helldusk Gloves](https://bg3.wiki/wiki/Helldusk_Gloves)
   - `House of Hope` Worn by **Haarlep** in the Boudoir. `X: -6478 Y: 2993`
-
-[x] Helmet: [Birthright](https://bg3.wiki/wiki/Birthright)
-  - `Sorcerous Sundries` Sold by **Rolan** on the ground floor.
 
 [ ] Scimitar: [Belm](https://bg3.wiki/wiki/Belm)
   - `Lower City` Inside an opulent chest behind a locked bookcase in the basement of **Elerrathin's Home** (requires DC Sleight of Hand 18). `X: -1572 Y: 976`

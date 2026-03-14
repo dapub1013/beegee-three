@@ -231,11 +231,4 @@ Spells 4/4:
   - `Lower City` Found in a locked Gilded Chest in the Mason's Guild basement. `X: 107 Y: -758`
 
 [ ] Shortsword: [Ambusher](https://bg3.wiki/wiki/Ambusher)
-  - `Rivington General` Sold by Exxvikyap in Rivington during Act 3. `X: 7 Y: -35`
-
----
-
-# Combat Strategy
-
-## Act 2
-- Get the [Drakethroat Glaive](https://bg3.wiki/wiki/Drakethroat_Glaive) from **Roah Moonglow** on the ground floor of **Moonrise Towers** `X: -175 Y: -176`. Give it to any teammate and cast it on your hunter.
+  - `Rivington General` Sold by **Exxvikyap** in Rivington during Act 3. `X: 7 Y: -35`
