@@ -246,6 +246,9 @@ Spells 4/4:
 [ ] Gloves: [Flawed Helldusk Gloves](https://bg3.wiki/wiki/Flawed_Helldusk_Gloves)
   - `Last Light Inn` Crafted by **Dammon** after giving him a third piece of **Infernal Iron**. `X: -33 Y: 164`
 
+[ ] Helmet: [Helmet of Arcane Acuity](https://bg3.wiki/wiki/Helmet_of_Arcane_Acuity)
+  - `Mason's Guild` Found in a locked Gilded Chest in the Mason's Guild basement. `X: 107 Y: -758`
+
 [ ] Ring: [Risky Ring](https://bg3.wiki/wiki/Risky_Ring)
   - `Moonrise Towers` Sold by **Araj Oblodra** on the main floor. `X: -128 Y: -193`
   - `Lower City` Sold by **Araj Oblodra** in Crimson Draughts if not acquired from her in Act 2. `X: -92 Y: -78`
@@ -271,9 +274,6 @@ Spells 4/4:
 
 [ ] Dagger: [Rhapsody](https://bg3.wiki/wiki/Rhapsody)
   - `Cazador's Dungeon` Carried by **Cazador Szarr**. `X: -1925 Y: 944`
-
-[ ] Helmet: [Helmet of Arcane Acuity](https://bg3.wiki/wiki/Helmet_of_Arcane_Acuity)
-  - `Lower City` Found in a locked Gilded Chest in the Mason's Guild basement. `X: 107 Y: -758`
 
 [ ] Shortsword: [Ambusher](https://bg3.wiki/wiki/Ambusher)
   - `Rivington General` Sold by Exxvikyap in Rivington during Act 3. `X: 7 Y: -35`
