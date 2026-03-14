@@ -1,4 +1,4 @@
-# Bhallist Paladin
+# Minthara's Bhallist Paladin
 
 [Build Reference](https://www.youtube.com/watch?v=M5ZWUN4ZrX0) | [↓ Items](#items)
 
