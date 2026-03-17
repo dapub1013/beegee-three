@@ -197,7 +197,7 @@ Spells 4/4:
 
 [x] Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
 
-[x] Armour: [Yuan-Ti Scale Mail](https://bg3.wiki/wiki/Yuan-Ti_Scale_Mail)
+[x] Armour: [Armour of Agility](https://bg3.wiki/wiki/Armour_of_Agility)
 
 [x] Boots: [Boots of Striding](https://bg3.wiki/wiki/Boots_of_Striding)
 
@@ -221,11 +221,8 @@ Spells 4/4:
 
 ## Act 3
 
-[ ] Armour: [Armour of Agility](https://bg3.wiki/wiki/Armour_of_Agility)
-  - `Lower City` Sold by **Gloomy Fentonson** at Stormshore Armoury. `X: -41 Y: -71`
-
 [ ] Dagger: [Rhapsody](https://bg3.wiki/wiki/Rhapsody)
   - `Cazador's Dungeon` Carried by **Cazador Szarr**. `X: -1925 Y: 944`
 
-[ ] Shortsword: [Ambusher](https://bg3.wiki/wiki/Ambusher)
+[x] Shortsword: [Ambusher](https://bg3.wiki/wiki/Ambusher)
   - `Rivington General` Sold by **Exxvikyap** in Rivington during Act 3. `X: 7 Y: -35`

@@ -147,7 +147,7 @@ Feat: Alert
 
 ## Current
 
-[X] Amulet: Amulet of Misty Step
+[x] Amulet: [Amulet of Misty Step](https://bg3.wiki/wiki/Amulet_of_Misty_Step)
 
 [x] Armour: [Adamantine Scale Mail](https://bg3.wiki/wiki/Adamantine_Scale_Mail)
 
@@ -167,7 +167,7 @@ Feat: Alert
 
 [x] Shortbow: [Bow of Awareness](https://bg3.wiki/wiki/Bow_of_Awareness)
 
-[ ] Item: [Resonance Stone](https://bg3.wiki/wiki/Resonance_Stone)
+[x] Item: [Resonance Stone](https://bg3.wiki/wiki/Resonance_Stone)
 
 ---
 

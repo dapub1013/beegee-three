@@ -176,22 +176,27 @@ Feat: Ability Improvement
 
 [x] Armour: [Dark Justiciar Half-Plate (Very Rare)](https://bg3.wiki/wiki/Dark_Justiciar_Half-Plate_(Very_Rare))
 
+[x] Cloak: [Cloak of Elemental Absorption](https://bg3.wiki/wiki/Cloak_of_Elemental_Absorption)
+
 [x] Boots: [Dark Justiciar Boots](https://bg3.wiki/wiki/Dark_Justiciar_Boots)
 
 [x] Gloves: [Dark Justiciar Gauntlets (Rare)](https://bg3.wiki/wiki/Dark_Justiciar_Gauntlets_(Rare))
 
 [x] Helmet: [Fistbreaker Helm](https://bg3.wiki/wiki/Fistbreaker_Helm)
 
+[x] Helmet: [Hood of the Weave](https://bg3.wiki/wiki/Hood_of_the_Weave)
+
+[x] Quarterstave: [Staff of Cherished Necromancy](https://bg3.wiki/wiki/Staff_of_Cherished_Necromancy)
+  
 [x] Ring: [Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)
 
 [x] Ring: [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)
 
-[x] Spear: [Shar's Spear of Evening](https://bg3.wiki/wiki/Shar%27s_Spear_of_Evening)
-
 [x] Shield: [Ketheric's Shield](https://bg3.wiki/wiki/Ketheric%27s_Shield)
 
-[x] Cloak: [Cloak of Elemental Absorption](https://bg3.wiki/wiki/Cloak_of_Elemental_Absorption)
+[x] Shield: [Viconia's Walking Fortress](https://bg3.wiki/wiki/Viconia%27s_Walking_Fortress)
 
+[x] Spear: [Shar's Spear of Evening](https://bg3.wiki/wiki/Shar%27s_Spear_of_Evening)
 
 ---
 
@@ -199,10 +204,3 @@ Feat: Ability Improvement
 
 [ ] Quarterstave: [Markoheshkir](https://bg3.wiki/wiki/Markoheshkir)
   - `Ramazith's Tower` In a **Globe of Invulnerability**. `X: 4970 Y: 705`
-
-[ ] Quarterstave: [Staff of Cherished Necromancy](https://bg3.wiki/wiki/Staff_of_Cherished_Necromancy)
-  - `Philgrave's Mansion` Carried by **Mystic Carrion**. `X: 14 Y: -160`
-
-[ ] Ring: [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)
-  - `Camp` Sold by **Volo**.
-

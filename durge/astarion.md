@@ -118,7 +118,7 @@ Class Action: Action Surge
 
 [x] Amulet: [Sentient Amulet](https://bg3.wiki/wiki/Sentient_Amulet)
 
-[x] Armour: [The Graceful Cloth](https://bg3.wiki/wiki/The_Graceful_Cloth)
+[x] Armour: [Yuan-Ti Scale Mail](https://bg3.wiki/wiki/Yuan-Ti_Scale_Mail)
 
 [x] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
 
@@ -142,21 +142,18 @@ Class Action: Action Surge
 
 ### Act 3
 
-[ ] Amulet: [Amulet of Greater Health](https://bg3.wiki/wiki/Amulet_of_Greater_Health)
-  - `House of Hope` Found on the left-most pedestal in the Archive. `X: -6548 Y: 2940`
-
-[ ] Armour: [Armour of Agility](https://bg3.wiki/wiki/Armour_of_Agility)
-  - `Lower City` Sold by **Gloomy Fentonson** at Stormshore Armoury. `X: -41 Y: -71`
-
 [ ] Boots: [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots)
   - `Wyrm's Rock Fortress` Found in a locked Gilded Chest on the top floor. `X: -32 Y: 219`
 
-[ ] Dagger: [Bloodthirst](https://bg3.wiki/wiki/Bloodthirst)
+[x] Dagger: [Bloodthirst](https://bg3.wiki/wiki/Bloodthirst)
   - `Bhaal Temple` Carried by **Orin** during the quest *⁠Get Orin's Netherstone*. `X: 61 Y: 1004`
+
+[x] Helmet: [Sarevok's Horned Helmet](https://bg3.wiki/wiki/Sarevok%27s_Horned_Helmet)
+  - `Murder Tribunal` Carried by **Sarevok Anchev**. `X: -1248 Y: 503`
 
 [ ] Gloves: [Helldusk Gloves](https://bg3.wiki/wiki/Helldusk_Gloves)
   - `House of Hope` Worn by **Haarlep** in the Boudoir. `X: -6478 Y: 2993`
 
-[ ] Helmet: [Sarevok's Horned Helmet](https://bg3.wiki/wiki/Sarevok%27s_Horned_Helmet)
-  - `Murder Tribunal` Carried by **Sarevok Anchev**. `X: -1248 Y: 503`
+[ ] Amulet: [Amulet of Greater Health](https://bg3.wiki/wiki/Amulet_of_Greater_Health)
+  - `House of Hope` Found on the left-most pedestal in the Archive. `X: -6548 Y: 2940`
 
