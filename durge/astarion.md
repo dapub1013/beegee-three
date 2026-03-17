@@ -124,9 +124,11 @@ Class Action: Action Surge
 
 [x] Cloak: [Shade-Slayer Cloak](https://bg3.wiki/wiki/Shade-Slayer_Cloak)
 
+[x] Dagger: [Bloodthirst](https://bg3.wiki/wiki/Bloodthirst)
+
 [x] Gloves: [Bracers of Defense](https://bg3.wiki/wiki/Bracers_of_defense)
 
-[x] Helmet: [Covert Cowl](https://bg3.wiki/wiki/Covert_Cowl)
+[x] Helmet: [Sarevok's Horned Helmet](https://bg3.wiki/wiki/Sarevok%27s_Horned_Helmet)
 
 [x] Longbow: [The Dead Shot](https://bg3.wiki/wiki/The_Dead_Shot)
 
@@ -134,9 +136,7 @@ Class Action: Action Surge
 
 [x] Ring: [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked_Ring)
 
-[x] Shortsword: [Knife of the Undermountain King](https://bg3.wiki/wiki/Knife_of_the_Undermountain_King) **Note:** Used throughout playthrough
-
-[x] Shortsword: [Sword of Life Stealing](https://bg3.wiki/wiki/Sword_of_Life_Stealing)
+[x] Shortsword: [Knife of the Undermountain King](https://bg3.wiki/wiki/Knife_of_the_Undermountain_King)
 
 ---
 
@@ -144,12 +144,6 @@ Class Action: Action Surge
 
 [ ] Boots: [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots)
   - `Wyrm's Rock Fortress` Found in a locked Gilded Chest on the top floor. `X: -32 Y: 219`
-
-[x] Dagger: [Bloodthirst](https://bg3.wiki/wiki/Bloodthirst)
-  - `Bhaal Temple` Carried by **Orin** during the quest *⁠Get Orin's Netherstone*. `X: 61 Y: 1004`
-
-[x] Helmet: [Sarevok's Horned Helmet](https://bg3.wiki/wiki/Sarevok%27s_Horned_Helmet)
-  - `Murder Tribunal` Carried by **Sarevok Anchev**. `X: -1248 Y: 503`
 
 [ ] Gloves: [Helldusk Gloves](https://bg3.wiki/wiki/Helldusk_Gloves)
   - `House of Hope` Worn by **Haarlep** in the Boudoir. `X: -6478 Y: 2993`

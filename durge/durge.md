@@ -197,17 +197,19 @@ Spells 4/4:
 
 [x] Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
 
+[x] Amulet: [Amulet of Bhaal](https://bg3.wiki/wiki/Amulet_of_Bhaal)
+
 [x] Armour: [Armour of Agility](https://bg3.wiki/wiki/Armour_of_Agility)
 
 [x] Boots: [Boots of Striding](https://bg3.wiki/wiki/Boots_of_Striding)
 
 [x] Boots: [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour)
 
-[x] Club: [Club of Hill Giant Strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength)
-
 [x] Gloves: [Flawed Helldusk Gloves](https://bg3.wiki/wiki/Flawed_Helldusk_Gloves)
 
 [x] Helmet: [Diadem of Arcane Synergy](https://bg3.wiki/wiki/Diadem_of_Arcane_Synergy)
+
+[x] Helmet: [Gibus of the Worshipful Servant](https://bg3.wiki/wiki/Gibus_of_the_Worshipful_Servant)
 
 [x] Ring: [Risky Ring](https://bg3.wiki/wiki/Risky_Ring)
 
@@ -217,6 +219,8 @@ Spells 4/4:
 
 [x] Shortbow: [Bow of the Banshee](https://bg3.wiki/wiki/Bow_of_the_Banshee)
 
+[x] Shortsword: [Ambusher](https://bg3.wiki/wiki/Ambusher)
+
 ---
 
 ## Act 3
@@ -224,5 +228,3 @@ Spells 4/4:
 [ ] Dagger: [Rhapsody](https://bg3.wiki/wiki/Rhapsody)
   - `Cazador's Dungeon` Carried by **Cazador Szarr**. `X: -1925 Y: 944`
 
-[x] Shortsword: [Ambusher](https://bg3.wiki/wiki/Ambusher)
-  - `Rivington General` Sold by **Exxvikyap** in Rivington during Act 3. `X: 7 Y: -35`
