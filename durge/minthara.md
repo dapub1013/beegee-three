@@ -143,9 +143,6 @@ Magical Secrets 2/2:
 
 # Items
 
-[ ] Armour: [Bhallist Armour](https://bg3.wiki/wiki/Bhaalist_Armour)
-  - `Murder Tribunal` Sold by **Echo of Abazigal**. `X: -1263 Y: 511`
-
 [ ] Amulet: [Amulet of Greater Health](https://bg3.wiki/wiki/Amulet_of_Greater_Health)
   - `House of Hope` Found on the left-most pedestal in the Archive. `X: -6548 Y: 2940`
 
@@ -155,9 +152,6 @@ Magical Secrets 2/2:
 [ ] Cloak: [Cloak of the Weave](https://bg3.wiki/wiki/Cloak_of_the_Weave)
   - `Devil's Fee` Sold by **Helsik** once her special stock is unlocked.  `X: -38 Y: 17`
 
-[ ] Helmet: [Helmet of Arcane Acuity](https://bg3.wiki/wiki/Helmet_of_Arcane_Acuity)
-  - `Mason's Guild` In a locked and trapped Gilded Chest in a secret basement area `X: 107 Y: -758`
-
 [ ] Gloves: [Gauntlets of Hill Giant Strength](https://bg3.wiki/wiki/Gauntlets_of_Hill_Giant_Strength)
   - `House of Hope` on a pedestal in the Archive. `X: -6549 Y: 2940` Redistribute ability points once Gauntlets of Frost Giant Strength are equipped:
 
@@ -166,10 +160,10 @@ Magical Secrets 2/2:
 | Strength | 8 | - |
 | Dexterity | 17 | +2 |
 
-[ ] Ring: [Band of the Mystic Scoundrel](https://bg3.wiki/wiki/Band_of_the_Mystic_Scoundrel)
+[x] Ring: [Band of the Mystic Scoundrel](https://bg3.wiki/wiki/Band_of_the_Mystic_Scoundrel)
   - `Jungle` In a backpack `X: -1566 Y: -1522`
 
 [ ] Ring: [Risky Ring](https://bg3.wiki/wiki/Risky_Ring)
 
-[ ] Trident: [Nyrulna](https://bg3.wiki/wiki/Nyrulna)
+[x] Trident: [Nyrulna](https://bg3.wiki/wiki/Nyrulna)
   - `Jungle` In a locked painted chest, near the portal to exit the area. `X: -1511 Y: -1522`
