@@ -198,9 +198,5 @@ Feat: Ability Improvement
 
 [x] Spear: [Shar's Spear of Evening](https://bg3.wiki/wiki/Shar%27s_Spear_of_Evening)
 
----
-
-## Act 3
-
-[ ] Quarterstave: [Markoheshkir](https://bg3.wiki/wiki/Markoheshkir)
+[x] Quarterstave: [Markoheshkir](https://bg3.wiki/wiki/Markoheshkir)
   - `Ramazith's Tower` In a **Globe of Invulnerability**. `X: 4970 Y: 705`

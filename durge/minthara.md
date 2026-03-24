@@ -149,10 +149,10 @@ Magical Secrets 2/2:
 [ ] Boots: [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots)
   - `Wyrm's Rock Fortress` Found in a locked Gilded Chest on the top floor. `X: -32 Y: 219`
 
-[ ] Cloak: [Cloak of the Weave](https://bg3.wiki/wiki/Cloak_of_the_Weave)
+[x] Cloak: [Cloak of the Weave](https://bg3.wiki/wiki/Cloak_of_the_Weave)
   - `Devil's Fee` Sold by **Helsik** once her special stock is unlocked.  `X: -38 Y: 17`
 
-[ ] Gloves: [Gauntlets of Hill Giant Strength](https://bg3.wiki/wiki/Gauntlets_of_Hill_Giant_Strength)
+[x] Gloves: [Gauntlets of Hill Giant Strength](https://bg3.wiki/wiki/Gauntlets_of_Hill_Giant_Strength)
   - `House of Hope` on a pedestal in the Archive. `X: -6549 Y: 2940` Redistribute ability points once Gauntlets of Frost Giant Strength are equipped:
 
 | Ability | Score | Modifier |
@@ -163,7 +163,7 @@ Magical Secrets 2/2:
 [x] Ring: [Band of the Mystic Scoundrel](https://bg3.wiki/wiki/Band_of_the_Mystic_Scoundrel)
   - `Jungle` In a backpack `X: -1566 Y: -1522`
 
-[ ] Ring: [Risky Ring](https://bg3.wiki/wiki/Risky_Ring)
+[x] Ring: [Risky Ring](https://bg3.wiki/wiki/Risky_Ring)
 
 [x] Trident: [Nyrulna](https://bg3.wiki/wiki/Nyrulna)
   - `Jungle` In a locked painted chest, near the portal to exit the area. `X: -1511 Y: -1522`

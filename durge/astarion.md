@@ -145,9 +145,9 @@ Class Action: Action Surge
 [ ] Boots: [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots)
   - `Wyrm's Rock Fortress` Found in a locked Gilded Chest on the top floor. `X: -32 Y: 219`
 
-[ ] Gloves: [Helldusk Gloves](https://bg3.wiki/wiki/Helldusk_Gloves)
+[x] Gloves: [Helldusk Gloves](https://bg3.wiki/wiki/Helldusk_Gloves)
   - `House of Hope` Worn by **Haarlep** in the Boudoir. `X: -6478 Y: 2993`
 
-[ ] Amulet: [Amulet of Greater Health](https://bg3.wiki/wiki/Amulet_of_Greater_Health)
+[x] Amulet: [Amulet of Greater Health](https://bg3.wiki/wiki/Amulet_of_Greater_Health)
   - `House of Hope` Found on the left-most pedestal in the Archive. `X: -6548 Y: 2940`
 
