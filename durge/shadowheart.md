@@ -32,5 +32,8 @@
 
 ## Act 3
 
+[ ] Amulet: [Amulet of the Devout](https://bg3.wiki/wiki/Amulet_of_the_Devout)
+  - `Stormshore Tabernacle` In the main Offering Chest in the basement. `X: 796 Y: 1159`
+
 [ ] Hand Crossbow: [Hand Crossbow +2](https://bg3.wiki/wiki/Hand_Crossbow_%2B2)
-- `Lady Jannath's Estate` Inside a wall vault in an office on the first floor.
+  - `Lady Jannath's Estate` Inside a wall vault in an office on the first floor.
