@@ -193,17 +193,11 @@ Spells 4/4:
 
 # Items
 
-## Current
-
-[x] Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
-
 [x] Amulet: [Amulet of Bhaal](https://bg3.wiki/wiki/Amulet_of_Bhaal)
 
-[x] Armour: [Armour of Agility](https://bg3.wiki/wiki/Armour_of_Agility)
+[x] Armour: [Adamantine Scale Mail](https://bg3.wiki/wiki/Adamantine_Scale_Mail)
 
 [x] Boots: [Boots of Striding](https://bg3.wiki/wiki/Boots_of_Striding)
-
-[x] Boots: [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour)
 
 [x] Gloves: [Flawed Helldusk Gloves](https://bg3.wiki/wiki/Flawed_Helldusk_Gloves)
 
