@@ -14,8 +14,6 @@
 
 [x] Hand Crossbow: [Hellfire Hand Crossbow](https://bg3.wiki/wiki/Hellfire_Hand_Crossbow)
 
-[x] Hand Crossbow: NEED ONE HERE
-
 [x] Boots: [Dark Justiciar Boots](https://bg3.wiki/wiki/Dark_Justiciar_Boots)
 
 [x] Gloves: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_dexterity)
@@ -29,3 +27,10 @@
 [x] Ring: [Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)
 
 [x] Ring: [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)
+
+---
+
+## Act 3
+
+[ ] Hand Crossbow: [Hand Crossbow +2](https://bg3.wiki/wiki/Hand_Crossbow_%2B2)
+- `Lady Jannath's Estate` Inside a wall vault in an office on the first floor.

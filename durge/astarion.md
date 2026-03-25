@@ -22,7 +22,7 @@
 
 [x] Longbow: [The Dead Shot](https://bg3.wiki/wiki/The_Dead_Shot)
 
-[x] Ring: [Eversight Ring](https://bg3.wiki/wiki/Eversight_Ring) **Note:** Priority acquisition
+[x] Ring: [Eversight Ring](https://bg3.wiki/wiki/Eversight_Ring)
 
 [x] Ring: [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked_Ring)
 
