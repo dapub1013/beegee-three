@@ -6,11 +6,14 @@
 
 # Items
 
-[x] Amulet: [Amulet of Misty Step](https://bg3.wiki/wiki/Amulet_of_Misty_Step)
+[x] Amulet: [Amulet of the Devout](https://bg3.wiki/wiki/Amulet_of_the
+._Devout)
 
 [x] Armour: [Armour of Agility](https://bg3.wiki/wiki/Armour_of_Agility)
 
 [x] Cloak: [Cloak of the Weave](https://bg3.wiki/wiki/Cloak_of_the_Weave)
+
+[x] Hand Crossbow: [Hand Crossbow +2](https://bg3.wiki/wiki/Hand_Crossbow_%2B2)
 
 [x] Hand Crossbow: [Hellfire Hand Crossbow](https://bg3.wiki/wiki/Hellfire_Hand_Crossbow)
 
@@ -32,8 +35,4 @@
 
 ## Act 3
 
-[ ] Amulet: [Amulet of the Devout](https://bg3.wiki/wiki/Amulet_of_the_Devout)
-  - `Stormshore Tabernacle` In the main Offering Chest in the basement. `X: 796 Y: 1159`
 
-[ ] Hand Crossbow: [Hand Crossbow +2](https://bg3.wiki/wiki/Hand_Crossbow_%2B2)
-  - `Lady Jannath's Estate` Inside a wall vault in an office on the first floor.
