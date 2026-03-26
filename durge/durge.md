@@ -12,6 +12,8 @@
 
 [x] Boots: [Boots of Striding](https://bg3.wiki/wiki/Boots_of_Striding)
 
+[x] Cloak: [The Deathstalker Mantle](https://bg3.wiki/wiki/The_Deathstalker_Mantle)
+
 [x] Gloves: [Flawed Helldusk Gloves](https://bg3.wiki/wiki/Flawed_Helldusk_Gloves)
 
 [x] Helmet: [Diadem of Arcane Synergy](https://bg3.wiki/wiki/Diadem_of_Arcane_Synergy)

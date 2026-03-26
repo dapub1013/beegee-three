@@ -6,7 +6,7 @@
 
 # Items
 
-[x] Amulet: [Amulet of Misty Step](https://bg3.wiki/wiki/Amulet_of_Misty_Step)
+[x] Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
 
 [x] Armour: [Helldusk Armor](https://bg3.wiki/wiki/Helldusk_armor)
 
