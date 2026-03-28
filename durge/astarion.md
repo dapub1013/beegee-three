@@ -10,7 +10,7 @@
 
 [x] Armour: [Yuan-Ti Scale Mail](https://bg3.wiki/wiki/Yuan-Ti_Scale_Mail)
 
-[x] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
+[x] Boots: [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots)
 
 [x] Cloak: [Shade-Slayer Cloak](https://bg3.wiki/wiki/Shade-Slayer_Cloak)
 
@@ -27,10 +27,3 @@
 [x] Ring: [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked_Ring)
 
 [x] Shortsword: [Knife of the Undermountain King](https://bg3.wiki/wiki/Knife_of_the_Undermountain_King)
-
----
-
-### Act 3
-
-[ ] Boots: [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots)
-  - `Wyrm's Rock Fortress` Found in a locked Gilded Chest on the top floor. `X: -32 Y: 219`

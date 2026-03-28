@@ -10,7 +10,7 @@
 
 [x] Armour: [Helldusk Armor](https://bg3.wiki/wiki/Helldusk_armor)
 
-[x] Boots: [Vital Conduit Boots](https://bg3.wiki/wiki/Vital_Conduit_Boots)
+[x] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
 
 [x] Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
 
@@ -27,4 +27,3 @@
 [x] Shortbow: [Bow of Awareness](https://bg3.wiki/wiki/Bow_of_Awareness)
 
 [x] Item: [Resonance Stone](https://bg3.wiki/wiki/Resonance_Stone)
-

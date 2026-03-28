@@ -14,6 +14,8 @@
 
 [x] Cloak: [The Deathstalker Mantle](https://bg3.wiki/wiki/The_Deathstalker_Mantle)
 
+[x] Dagger: [Rhapsody](https://bg3.wiki/wiki/Rhapsody)
+
 [x] Gloves: [Flawed Helldusk Gloves](https://bg3.wiki/wiki/Flawed_Helldusk_Gloves)
 
 [x] Helmet: [Diadem of Arcane Synergy](https://bg3.wiki/wiki/Diadem_of_Arcane_Synergy)
@@ -25,12 +27,3 @@
 [x] Shield: [Sentinel Shield](https://bg3.wiki/wiki/Sentinel_Shield)
 
 [x] Shortbow: [Bow of the Banshee](https://bg3.wiki/wiki/Bow_of_the_Banshee)
-
-[x] Shortsword: [Ambusher](https://bg3.wiki/wiki/Ambusher)
-
----
-
-## Act 3
-
-[ ] Dagger: [Rhapsody](https://bg3.wiki/wiki/Rhapsody)
-  - `Cazador's Dungeon` Carried by **Cazador Szarr**. `X: -1925 Y: 944`
