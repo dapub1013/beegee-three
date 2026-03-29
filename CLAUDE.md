@@ -11,30 +11,50 @@ This is a Baldur's Gate 3 (BG3) build and playthrough notes repository. All cont
 - **Top-level `.md` files** — Standalone character build references (e.g. `shadow-assassin.md`, `hexblade-warlock.md`). These are generic builds not tied to a specific playthrough.
 - **`durge/`** — Notes for a Dark Urge playthrough. `durge.md` is the main character; the other files are companions.
 - **`doubleteam/`** — Notes for a "Double Team" playthrough. Each file tracks a companion. `gear-chase.md` is a gear-tracking-only document without a full leveling guide.
+- **`cartoon/`** — Notes for a playthrough using the cast of the 1983 D&D cartoon. Each file tracks one character. `item-overlap.md` tracks gear conflicts across the party.
 
-## Document Format Conventions
+## Build Research Process
 
-Each build document follows this structure:
+When creating a new character build, follow these steps in order before writing anything.
 
-1. **Header** — `# Character Name or Build Name`
-2. **Links bar** — `[Build Reference](url) | [↓ Items](#items) | [↓ Strategy](#combat-strategy)`
-3. **Leveling guide** — `### Level N` sections, each containing class choice, subclass, feats, spells/cantrips, and ability scores as a table
-4. **Items section** — `# Items`, organized by `## Act 1 / Act 2 / Act 3`
-5. **Combat Strategy section** — `# Combat Strategy`, organized by act (where applicable)
-6. **Notes section** — Optional synergy item sets and tactical notes
+### Step 1 — Research the build
 
-### Item Entry Format
+Search for current (post-patch 7) guides and tier lists for the class/subclass combination requested. Look for:
+- Recommended ability score distributions at character creation
+- Multiclass options and the optimal level split
+- Feat order and the reasoning behind each choice
+- Spell or ability priority by act
+- Known synergies and mechanical interactions on Tactician difficulty
 
-```markdown
-[STATUS] Slot: [Item Name](https://bg3.wiki/wiki/Item_Name)
-  - `Location Name` Source description with **NPC name** in bold. `X: 000 Y: 000`
-```
+Prefer community resources that are explicitly post-patch 7. Note any interactions that may have been patched or changed.
 
-Item status markers:
-- `[x]` — acquired
-- `[ ]` — not yet acquired
-- `[-]` — skipped or not applicable
+### Step 2 — Research the gear
 
-### Respec Notes
+For each act, search `bg3.wiki` for best-in-slot items for this build. For every item included, verify:
+- The exact item name as it appears on the wiki
+- The location, including the specific container or NPC it comes from
+- The coordinates (`X: ### Y: ###`)
+- Whether it is looted, purchased, or found in a chest, and from whom
+- Whether the source is unique (one per playthrough) or restockable
 
-When a build requires a respec at a certain level, the leveling guide restarts from Level 1 after a `### Level N: **RESPEC**` heading, re-documenting all choices from scratch with the revised decisions.
+Do not include any item that cannot be verified from the wiki. If uncertain about a coordinate or source, say so explicitly in a note rather than guessing.
+
+### Step 3 — Check for conflicts
+
+Before finalising the gear list, cross-reference new items against existing builds in the same playthrough folder. Flag any item that is unique or single-stock and appears in more than one build. Consult `item-overlap.md` in the playthrough folder if one exists.
+
+### Step 4 — Write the build
+
+Follow the document format specified in `FORMAT.md`.
+
+## Document Format
+
+Full format specification is in `FORMAT.md`. Key conventions at a glance:
+
+- **Leveling guide** — one `### Level N` section per level, documenting every choice made at that level
+- **Items section** — organised by `## Act 1`, `## Act 2`, `## Act 3`
+- **Item status markers** — `[ ]` not yet acquired, `[x]` acquired, `[-]` skipped or not applicable
+- **Respec** — restarts the leveling guide from Level 1 under a `### Level N: **RESPEC**` heading, re-documenting all choices from scratch
+- **Ability score redistribution** — documented inline under the item that triggers it, as a table
+
+See `FORMAT.md` for the full item entry format, leveling guide structure, and notes conventions.
