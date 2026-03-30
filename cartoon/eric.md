@@ -205,21 +205,23 @@ Feat: Ability Improvement
 [ ] Armour: [Helldusk Armor](https://bg3.wiki/wiki/Helldusk_armor)
   - `House of Hope` Carried by **Raphael**. `X: -6477 Y: 2884`
 
-[ ] Cloak: [Cloak of Displacement](https://bg3.wiki/wiki/Cloak_of_Displacement)
+[-] Cloak: [Cloak of Displacement](https://bg3.wiki/wiki/Cloak_of_Displacement)
   - `Danthelon's Dancing Axe` Sold by **Entharl Danthelon** in Wyrm's Crossing. `X: -10 Y: 143`
+  - **Note:** Hank takes this. Eric carries [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection) from Act 2 through the end of the game.
 
-[ ] Gloves: [Gauntlets of Hill Giant Strength](https://bg3.wiki/wiki/Gauntlets_of_Hill_Giant_Strength)
+[-] Gloves: [Gauntlets of Hill Giant Strength](https://bg3.wiki/wiki/Gauntlets_of_Hill_Giant_Strength)
   - `House of Hope` On a pedestal in the Archive. `X: -6549 Y: 2940`
-  - **Note:** Sets STR to 23. Once equipped, redistribute ability points:
+  - **Note:** Bobby takes these. Eric holds STR 18 from his Level 8 ASI through the
+    end of the game — no redistribution. Final ability scores:
 
 | Ability | Score | Modifier |
 |---------|-------|----------|
-| Strength | 8 | — |
+| Strength | 18 | +4 |
 | Dexterity | 10 | — |
-| Constitution | 16 | — |
+| Constitution | 14 | — |
 | Intelligence | 8 | — |
 | Wisdom | 10 | — |
-| Charisma | 20 | +1 |
+| Charisma | 20 | +5 |
 
 [ ] Shield: [Sentinel Shield](https://bg3.wiki/wiki/Sentinel_Shield)
   - `Moonrise Towers` Sold by **Lann Tarv** on the main floor. `X: -164 Y: -167`
@@ -240,4 +242,4 @@ Feat: Ability Improvement
 
 **Phalar Aluve:** The Sing/Shriek choice on this sword applies a party-wide aura. Shriek imposes -1d4 on enemy saving throws in range — stacks with Bless's +1d4 on ally rolls for an effective 2d4 swing on any contested save. Keep it on Eric even if he is using a different weapon in his main hand; the aura persists as long as it is equipped, not wielded.
 
-**Gauntlets of Hill Giant Strength transition:** Once these arrive from the House of Hope, STR becomes irrelevant and all those points move into CON and CHA. This effectively gives Eric a full ability score reallocation in Act 3 for free.
+**STR without Gauntlets:** Eric holds STR 18 from his Level 8 ASI through the end of the game. Bobby takes the Gauntlets of Hill Giant Strength. Sacred Weapon covers the to-hit gap; Lay on Hands and Aura of Protection are unaffected.

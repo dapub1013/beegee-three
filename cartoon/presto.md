@@ -172,8 +172,9 @@ Feat: Ability Improvement
 ## Act 1
 
 [ ] Amulet: [Amulet of Misty Step](https://bg3.wiki/wiki/Amulet_of_Misty_Step)
-  - `Defiled Temple` Gilded chest next to the bed behind **Polma** in Gut's private chambers. `X: 386 Y: 8`
   - `Myconid Colony` Sold by **Omeluum** after completing *Help Omeluum Investigate the Parasite*. `X: 112 Y: -88`
+  - **Note:** Use Omeluum as Presto's source. Eric takes the Defiled Temple chest
+    (`X: 386 Y: 8`). Do not compete for the same copy.
 
 [ ] Boots: [Boots of Genial Striding](https://bg3.wiki/wiki/Boots_of_Genial_Striding)
   - `Ebonlake Grotto` Sold by **Blurg**. `X: 111 Y: -89`
@@ -185,8 +186,15 @@ Feat: Ability Improvement
 [ ] Quarterstave: [Melf's First Staff](https://bg3.wiki/wiki/Melf%27s_First_Staff)
   - `Ebonlake Grotto` Sold by **Blurg**. `X: 111 Y: -89`
 
-[ ] Ring: [Ring of Protection](https://bg3.wiki/wiki/Ring_of_Protection)
+[-] Ring: [Ring of Protection](https://bg3.wiki/wiki/Ring_of_Protection)
   - `Tiefling Hideout` Rewarded by **Mol** for completing the quest *Steal the Sacred Idol* in the Emerald Grove. `X: 84 Y: 73`
+
+[ ] Ring: [Ring of Mind-Shielding](https://bg3.wiki/wiki/Ring_of_Mind-Shielding)
+  - `Underdark - Myconid Colony` Rewarded by **Omeluum** at the end of *Help Omeluum
+    Investigate the Parasite*. `X: 112 Y: -88`
+  - **Note:** Immunity to being charmed, frightened, or alignment-detected. Critical
+    defensive coverage for a backline caster who cannot afford to be turned mid-fight.
+    Presto is already at the Myconid Colony for Blurg — collect both on the same visit.
 
 [ ] Ring: [Warped Headband of Intellect](https://bg3.wiki/wiki/Warped_Headband_of_Intellect)
   - `Blighted Village` Worn by **Lump the Enlightened**. `X: 9 Y: 380`

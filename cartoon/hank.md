@@ -215,8 +215,16 @@ Feat: Ability Improvement +2 DEX
 [ ] Armour: [The Graceful Cloth](https://bg3.wiki/wiki/The_Graceful_Cloth)
   - `Rosymorn Monastery Trail` Sold by **Lady Esther**, north-east of the Trielta Crags waypoint. `X: -43 Y: -129`
 
-[ ] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
+[-] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
   - `Grymforge` Worn by **Nere**; looted from his corpse. `X: -854 Y: 780`
+
+[ ] Boots: [Boots of Speed](https://bg3.wiki/wiki/Boots_of_Speed)
+  - `Underdark` Given by a rescued Deep Gnome slave near the Myconid Colony entrance
+    after healing her (Lesser Restoration) or allowing her to explain her escape.
+    `X: 73 Y: -187`
+  - **Note:** Swift Strides grants Momentum on Dash (including Cunning Action: Dash).
+    Extends Hank's first-turn repositioning and is not contested. Collect during the
+    same Underdark visit as Blurg and Omeluum.
 
 [ ] Gloves: [Gloves of Archery](https://bg3.wiki/wiki/Gloves_of_Archery)
   - `Goblin Camp` Sold by **Grat the Trader**. `X: -99 Y: 424`
@@ -242,8 +250,13 @@ Feat: Ability Improvement +2 DEX
 
 ## Act 2
 
-[ ] Cloak: [Cloak of Cunning Brume](https://bg3.wiki/wiki/Cloak_of_Cunning_Brume)
+[-] Cloak: [Cloak of Cunning Brume](https://bg3.wiki/wiki/Cloak_of_Cunning_Brume)
   - `Last Light Inn` Sold by **Mattis**. `X: -56 Y: 141`
+
+> ⚠️ **No Act 2 cloak alternative exists for Hank.** He carries an empty cloak slot
+> through Act 2. This is acceptable for a backline archer who avoids melee. His Act 3
+> cloak (Cloak of Displacement) arrives immediately on entering Rivington and closes
+> the gap.
 
 [ ] Helmet: [Helmet of Arcane Acuity](https://bg3.wiki/wiki/Helmet_of_Arcane_Acuity)
   - `Mason's Guild` Found in a locked and trapped Gilded Chest in a secret basement area. `X: 107 Y: -758`
@@ -252,7 +265,7 @@ Feat: Ability Improvement +2 DEX
   - `House of Healing` Found in a locked opulent chest in the corner of the morgue lab. `X: 9 Y: -981`
   - **Note:** Priority acquisition — allows Hank to operate freely inside Darkness zones placed by allies.
 
-[ ] Ring: [Risky Ring](https://bg3.wiki/wiki/Risky_Ring)
+[-] Ring: [Risky Ring](https://bg3.wiki/wiki/Risky_Ring)
   - `Moonrise Towers` Sold by **Araj Oblodra** on the main floor. `X: -128 Y: -193`
 
 ## Act 3

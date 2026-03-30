@@ -114,16 +114,27 @@ Feat: Ability Improvement
 
 ## Act 1
 
-[ ] Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
+[-] Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
   - `Inner Sanctum` Carried by **Kagha** in the Emerald Grove in Act 1. `X: -461 Y: -22`
   - `High Hall` On a table of goods, owned by **Koll** in Act 3. `X: 235 Y: 44`
+
+[ ] Amulet: [Absolute's Talisman](https://bg3.wiki/wiki/Absolute%27s_Talisman)
+  - `Shattered Sanctum` On **Priestess Gut** in her private chambers. `X: 386 Y: 8`
+  - **Note:** Casts Healing Word as a bonus action once per Short Rest — free emergency
+    sustain that costs no party resources. Best looted by splitting a single character
+    off to speak with Gut privately; the other goblin leaders need not be aware.
 
 [ ] Armour: [Adamantine Scale Mail](https://bg3.wiki/wiki/Adamantine_Scale_Mail)
   - `Adamantine Forge` Forged from a **Scale Mail Mould** and **Mithral Ore**. `X: -558 Y: 230`
   - **Note:** Barbarians cannot use heavy armour without losing Unarmored Defense and Rage benefits. Use medium armour only.
 
-[ ] Boots: [Boots of Striding](https://bg3.wiki/wiki/Boots_of_Striding)
+[-] Boots: [Boots of Striding](https://bg3.wiki/wiki/Boots_of_Striding)
   - `Shattered Sanctum` Worn by **Minthara**. `X: 335 Y: 43`
+
+[ ] Boots: [Linebreaker Boots](https://bg3.wiki/wiki/Linebreaker_Boots)
+  - `Worg Pens` Looted from **Beastmaster Zurk**. `X: -95 Y: 453`
+  - **Note:** Grants Wrath for 2 turns on Dash — useful for a Berserker who charges
+    in to open combat. Same Goblin Camp area as Cap of Wrath; collect both together.
 
 [ ] Club: [Club of Hill Giant Strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength)
   - `Arcane Tower` Found by breaking the **Stool of Hill Giant Strength** on the highest floor with **Bernard**. `X: -26 Y: -272`
@@ -132,8 +143,13 @@ Feat: Ability Improvement
 [ ] Gloves: [Gloves of the Growling Underdog](https://bg3.wiki/wiki/Gloves_of_the_Growling_Underdog)
   - `Shattered Sanctum` Inside treasure crates behind the locked iron gate in **Dror Ragzlin's** area. `X: 298 Y: 66`
 
-[ ] Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
+[-] Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
   - `Blighted Village` Inside a Moss-Covered Chest near the well. `X: 29 Y: 405`
+
+[ ] Helmet: [Cap of Wrath](https://bg3.wiki/wiki/Cap_of_Wrath)
+  - `Worg Pens` Looted from **Beastmaster Zurk**. `X: -95 Y: 453`
+  - **Note:** Does not classify as armour — preserves Unarmoured Defense. Wrath on a
+    kill synergises with Berserker's high-damage opening turn.
 
 [ ] Ring: [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
   - `Ebonlake Grotto` Sold by **Derryth Bonecloak** in the Underdark. `X: -55 Y: -93`
@@ -146,11 +162,17 @@ Feat: Ability Improvement
 
 ## Act 2
 
-[ ] Armour: [Yuan-Ti Scale Mail](https://bg3.wiki/wiki/Yuan-Ti_Scale_Mail)
+[-] Armour: [Yuan-Ti Scale Mail](https://bg3.wiki/wiki/Yuan-Ti_Scale_Mail)
   - `Last Light Inn` Sold by **Quartermaster Talli** near the Last Light Inn waypoint. `X: -31 Y: 130`
 
-[ ] Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
+[-] Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
   - `Last Light Inn` Sold by **Quartermaster Talli** near the Last Light Inn waypoint. `X: -31 Y: 130`
+
+[ ] Cloak: [Vivacious Cloak](https://bg3.wiki/wiki/Vivacious_Cloak)
+  - `Grand Mausoleum` In a locked Traveller's Chest in the south-east corner.
+    `X: -259 Y: -882` (DC 14 Sleight of Hand)
+  - **Note:** Grants 8 temporary HP when casting a spell while in melee. Bobby is
+    always in melee. No other party member is assigned this item.
 
 [ ] Ring: [Risky Ring](https://bg3.wiki/wiki/Risky_Ring)
   - `Moonrise Towers` Sold by **Araj Oblodra** on the main floor. `X: -128 Y: -193`
@@ -161,8 +183,14 @@ Feat: Ability Improvement
   - `Murder Tribunal` Sold by **Echo of Abazigal**. `X: -1263 Y: 511`
   - **Note:** Causes all piercing damage dealt by nearby allies to ignore resistance. Strong party-wide buff if anyone else is running piercing weapons.
 
-[ ] Boots: [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots)
+[-] Boots: [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots)
   - `Wyrm's Rock Fortress` Found in a locked Gilded Chest on the top floor. `X: -32 Y: 219`
+
+[ ] Boots: [Boots of Uninhibited Kushigo](https://bg3.wiki/wiki/Boots_of_Uninhibited_Kushigo)
+  - `Astral Plane` Carried by **Prelate Lir'i'c** at the start of Act 3. `X: -163 Y: -1158`
+  - **Note:** Bonus action damage on Unarmed Strike after a Dash. Less impactful on
+    Bobby than on Diana, but the Dash synergy with Berserker/Thief is real. Not
+    contested by any other party member.
 
 [ ] Gloves: [Gauntlets of Hill Giant Strength](https://bg3.wiki/wiki/Gauntlets_of_Hill_Giant_Strength)
   - `House of Hope` On a pedestal in the Archive. `X: -6549 Y: 2940`
@@ -171,8 +199,13 @@ Feat: Ability Improvement
 [ ] Greatclub: [Stillmaker](https://bg3.wiki/wiki/Stillmaker)
   - `House of Hope` Found in a locked chest in the Archive. `X: -6530 Y: 2970`
 
-[ ] Helmet: [Horns of the Berserker](https://bg3.wiki/wiki/Horns_of_the_Berserker)
+[-] Helmet: [Horns of the Berserker](https://bg3.wiki/wiki/Horns_of_the_Berserker)
   - `Danthelon's Dancing Axe` Sold by **Entharl Danthelon**. `X: -10 Y: 143`
+
+[ ] Helmet: [Grymskull Helm](https://bg3.wiki/wiki/Grymskull_Helm)
+  - `Adamantine Forge` Carried by **Grym**. `X: -557 Y: 234`
+  - **Note:** Prevents critical hits and grants fire resistance. Strong Act 1 pick
+    that holds through Act 3. Kill Grym using the forge hammer for the guaranteed drop.
 
 ---
 

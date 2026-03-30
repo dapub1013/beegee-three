@@ -157,13 +157,13 @@ Feat: Ability Improvement +2 DEX
 | Wisdom | 12 | — |
 | Charisma | 10 | — |
 
-[ ] Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
+[-] Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
   - `Blighted Village` Inside a Moss-Covered Chest near the well. `X: 29 Y: 405`
 
 [ ] Ring: [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)
   - `Goblin Camp` Worn by **Crusher**. Slip it off his toe when he demands you kiss his foot *or* loot from his corpse. `X: -70 Y: 439`
 
-[ ] Ring: [Ring of Protection](https://bg3.wiki/wiki/Ring_of_Protection)
+[-] Ring: [Ring of Protection](https://bg3.wiki/wiki/Ring_of_Protection)
   - `Tiefling Hideout` Rewarded by **Mol** for completing the quest *Steal the Sacred Idol* in the Emerald Grove. `X: 84 Y: 73`
 
 [ ] Shortsword: [Shortsword of First Blood](https://bg3.wiki/wiki/Shortsword_of_First_Blood)
@@ -183,7 +183,7 @@ Feat: Ability Improvement +2 DEX
 [ ] Helmet: [Covert Cowl](https://bg3.wiki/wiki/Covert_Cowl)
   - `Last Light Inn` Looted from a **Meenlock** in the cellar. `X: 33 Y: -697`
 
-[ ] Ring: [Eversight Ring](https://bg3.wiki/wiki/Eversight_Ring)
+[-] Ring: [Eversight Ring](https://bg3.wiki/wiki/Eversight_Ring)
   - `House of Healing` Found in a locked opulent chest in the corner of the morgue lab west of the zombie crypt. `X: 9 Y: -981`
 
 [ ] Ring: [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked_Ring)
@@ -194,7 +194,7 @@ Feat: Ability Improvement +2 DEX
 
 ## Act 3
 
-[ ] Armour: [Armour of Agility](https://bg3.wiki/wiki/Armour_of_Agility)
+[-] Armour: [Armour of Agility](https://bg3.wiki/wiki/Armour_of_Agility)
   - `Lower City` Sold by **Gloomy Fentonson** at Stormshore Armoury. `X: -41 Y: -71`
 
 [ ] Boots: [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots)
@@ -209,7 +209,7 @@ Feat: Ability Improvement +2 DEX
 [ ] Gloves: [Helldusk Gloves](https://bg3.wiki/wiki/Helldusk_Gloves)
   - `House of Hope` Worn by **Haarlep** in the Boudoir. `X: -6478 Y: 2993`
 
-[ ] Helmet: [Mask of Soul Perception](https://bg3.wiki/wiki/Mask_of_Soul_Perception)
+[-] Helmet: [Mask of Soul Perception](https://bg3.wiki/wiki/Mask_of_Soul_Perception)
   - `Devil's Fee` In a locked Gilded Chest (DC 20 Sleight of Hand) in **Helsik's** room upstairs. `X: -33 Y: 20`
 
 [ ] Shortsword: [Knife of the Undermountain King](https://bg3.wiki/wiki/Knife_of_the_Undermountain_King)

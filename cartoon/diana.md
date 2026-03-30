@@ -158,29 +158,31 @@ Feat: Ability Improvement +2 WIS
 [ ] Armour: [Bloodguzzler Garb](https://bg3.wiki/wiki/Bloodguzzler_Garb)
   - `Underdark` Looted from the **Bulette**.
 
-[ ] Boots: [Boots of Striding](https://bg3.wiki/wiki/Boots_of_Striding)
+[-] Boots: [Boots of Striding](https://bg3.wiki/wiki/Boots_of_Striding)
   - `Shattered Sanctum` Worn by **Minthara**. `X: 335 Y: 43`
 
-[ ] Gloves: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_dexterity)
+[ ] Boots: [Boots of Genial Striding](https://bg3.wiki/wiki/Boots_of_Genial_Striding)
+  - `Ebonlake Grotto` Sold by **Blurg**. `X: 111 Y: -89`
+  - **Note:** Difficult terrain immunity keeps Diana in melee range without burning
+    movement. Strong value for a monk crossing Grease, Spike Growth, and Web zones.
+    No armour proficiency required.
+
+[-] Gloves: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_dexterity)
   - `Crèche Y'llek` Sold by **A'jak'nir Jeera**. `X: 1380 Y: -798`
-  - **Note:** Sets DEX to 18. Once equipped, redistribute ability points:
 
-| Ability | Score | Modifier |
-|---------|-------|----------|
-| Strength | 17 | +2 |
-| Dexterity | 8 | — |
-| Constitution | 16 | +1 |
-| Intelligence | 8 | — |
-| Wisdom | 15 | - |
-| Charisma | 8 | — |
-
-[ ] Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
+[-] Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
   - `Blighted Village` Inside a Moss-Covered Chest near the well. `X: 29 Y: 405`
+
+[ ] Helmet: [Helmet of Uninhibited Kushigo](https://bg3.wiki/wiki/Helmet_of_Uninhibited_Kushigo)
+  - `Underdark` On the floor near the northern edge of the Myconid Colony. `X: 85 Y: 6`
+  - **Note:** Deals 1d4 bonus damage on unarmed strikes while not wearing armour.
+    Directly amplifies the Tavern Brawler unarmed loop. Verify coordinates in-game —
+    Underdark item placement can shift across patches.
 
 [ ] Ring: [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)
   - `Goblin Camp` Worn by **Crusher**. Slip it off his toe when he demands you kiss his foot *or* loot from his corpse. `X: -70 Y: 439`
 
-[ ] Ring: [Ring of Protection](https://bg3.wiki/wiki/Ring_of_Protection)
+[-] Ring: [Ring of Protection](https://bg3.wiki/wiki/Ring_of_Protection)
   - `Tiefling Hideout` Rewarded by **Mol** for completing the quest *Steal the Sacred Idol* in the Emerald Grove. `X: 84 Y: 73`
 
 [ ] Shortbow: [Hunting Shortbow](https://bg3.wiki/wiki/Hunting_Shortbow)
@@ -188,10 +190,15 @@ Feat: Ability Improvement +2 WIS
 
 ## Act 2
 
-[ ] Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
+[-] Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
   - `Last Light Inn` Sold by **Quartermaster Talli** near the Last Light Inn waypoint. `X: -31 Y: 130`
 
-[ ] Ring: [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)
+> ⚠️ **No Act 2 cloak alternative confirmed for Diana.** She carries an empty cloak
+> slot through Act 2. Talli relocates to Moonrise Towers before the end of Act 2 and
+> may have a second copy of the Cloak of Protection in stock there — purchase it for
+> Diana if available. Otherwise Diana's cloak slot remains open until Act 3.
+
+[-] Ring: [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)
   - `Gauntlet of Shar` In an opulent chest in the vault room near **Balthazar**. `X: -821 Y: -752`
 
 [ ] Shortbow: [Darkfire Shortbow](https://bg3.wiki/wiki/Darkfire_Shortbow)
