@@ -33,7 +33,7 @@ Search for current guides for the requested class/subclass combination. Every se
 
 ```
 [class] [subclass] build tactician patch 7 baldur's gate 3
-bg3 [class] [subclass] best build 2024
+bg3 [class] [subclass] best build patch 8
 bg3 [class] multiclass [subclass] guide
 ```
 
@@ -45,11 +45,23 @@ bg3 [class] multiclass [subclass] guide
 - Key mechanical interactions and synergies
 - Any interactions flagged as patch-sensitive
 
-**Source reliability:**
-- YouTube guides from known BG3 creators (Proxy Gate Tactician, Cephalopocalypse, DnD Shorts, etc.) — generally reliable for Tactician-tested builds
-- bg3.wiki build pages — reliable for mechanics, less reliable for opinionated gear lists
-- Fextralife — treat as a starting point, cross-check everything
-- Reddit/community posts — useful for finding niche interactions, verify independently
+**Source reliability — written guides:**
+
+- **r/BG3Builds** (reddit.com/r/BG3Builds) — best source for niche multiclass interactions and community-tested theory. The subreddit wiki and pinned "Completed Builds" post are high-value starting points. Individual contributors worth searching directly: c4b-BG3 (Sorcadin/Lockadin theory), Bravest_Coward (Bladesinger), Cephalopocalypse (level-by-level progressions). Prefer posts with detailed mechanical explanations over pure gear lists.
+- **Deltia's Gaming** (deltiasgaming.com) — actively maintained through Patch 8, covers Tactician difficulty explicitly, includes act-by-act gear recommendations and ability score setups. Good for confirming feat order reasoning.
+- **Alcast HQ** (alcasthq.com) — methodical level-by-level format with gear sets separated by act. Updated through 2026. Strong coverage of all classes and subclasses including Patch 8 additions.
+- **Gamestegy** (gamestegy.com) — builds tested at Honour Mode difficulty, which makes them conservative and reliable at Tactician. Tier list includes mechanical reasoning rather than just community popularity.
+- **PC Gamer multiclass guide** (pcgamer.com/baldurs-gate-3-multiclass-builds) — useful for understanding *why* specific multiclass splits work, written by a player with Honour Mode clears. Updated through Patch 8. Best for synthesis, not copying verbatim.
+- **bg3.wiki build pages** — reliable for mechanics and ability interactions, less reliable for opinionated gear lists. Use as a cross-check, not a primary build source.
+- **Fextralife** — treat as a starting point only. Cross-check everything, especially item locations and coordinates.
+
+**Source reliability — YouTube:**
+
+- **Cephalopocalypse** — best for structured build guides that walk through real level-by-level progressions. Praised specifically by the community for not skipping early-game and for honest Tactician-tested assessments.
+- **Proxy Gate Tactician** — better for tips, tricks, and exploit discovery than for structured build guides. Useful for understanding edge-case mechanics.
+- **Mortismal Gaming** — strong mechanics explainers and class overviews. Good for understanding a class before diving into build specifics.
+
+**Patch currency warning:** Patch 8 shipped in early 2025 and added 12 new subclasses (including Hexblade Warlock, Bladesinger Wizard, and others). Any guide dated before early 2025 should be treated as potentially stale on subclass options and feat interactions, even if the core multiclass logic holds. Deltia's and Alcast are both explicitly updated for Patch 8. When in doubt, check the guide's date before trusting subclass-specific advice.
 
 **Flag anything that looks patch-sensitive.** Certain interactions change between patches — multiclass feat timing, specific item interactions, some spell behaviours. If a guide is ambiguous about patch version, note it explicitly in the build file rather than presenting it as settled fact.
 
