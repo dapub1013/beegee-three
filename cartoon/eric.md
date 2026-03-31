@@ -168,11 +168,11 @@ Feat: Ability Improvement
 [ ] Gloves: [Hellrider's Pride](https://bg3.wiki/wiki/Hellrider%27s_Pride)
   - `Druid Grove` Carried by **Zevlor** and can be either looted from him, bought, stolen, or earned as reward for the quests *Kill Kagha* or *Investigate Kagha*. `X: -53 Y: 67`
 
-[ ] Ring: [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
-  - `Ebonlake Grotto` Sold by **Derryth Bonecloak** in the Underdark. `X: -55 Y: -93`
-
 [ ] Ring: [Ring of Protection](https://bg3.wiki/wiki/Ring_of_Protection)
   - `Tiefling Hideout` Rewarded by **Mol** for completing the quest *Steal the Sacred Idol* in the Emerald Grove. `X: 84 Y: 73`
+
+[ ] Ring: [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)
+  - `Goblin Camp` Sold by **Grat the Trader**. `X: -99 Y: 424`
 
 [ ] Shield: [Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield)
   - `The Hollow` Sold by **Dammon** in the Emerald Grove. `X: 177 Y: 562`
@@ -190,9 +190,6 @@ Feat: Ability Improvement
 
 [ ] Helmet: [Fistbreaker Helm](https://bg3.wiki/wiki/Fistbreaker_Helm)
   - `Moonrise Towers` Sold by **Lann Tarv** on the main floor. `X: -164 Y: -167`
-
-[ ] Ring: [Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)
-  - `Goblin Camp` Sold by **Grat the Trader**. `X: -99 Y: 424`
 
 [ ] Shield: [Ketheric's Shield](https://bg3.wiki/wiki/Ketheric%27s_Shield)
   - `Mind Flayer Colony` Carried by **Ketheric Thorm** when fought a second time. `X: 861 Y: -23`

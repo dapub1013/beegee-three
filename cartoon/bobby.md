@@ -168,11 +168,10 @@ Feat: Ability Improvement
 [-] Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
   - `Last Light Inn` Sold by **Quartermaster Talli** near the Last Light Inn waypoint. `X: -31 Y: 130`
 
-[ ] Cloak: [Vivacious Cloak](https://bg3.wiki/wiki/Vivacious_Cloak)
+[-] Cloak: [Vivacious Cloak](https://bg3.wiki/wiki/Vivacious_Cloak)
   - `Grand Mausoleum` In a locked Traveller's Chest in the south-east corner.
     `X: -259 Y: -882` (DC 14 Sleight of Hand)
-  - **Note:** Grants 8 temporary HP when casting a spell while in melee. Bobby is
-    always in melee. No other party member is assigned this item.
+  - **Note:** Presto takes this.
 
 [ ] Ring: [Risky Ring](https://bg3.wiki/wiki/Risky_Ring)
   - `Moonrise Towers` Sold by **Araj Oblodra** on the main floor. `X: -128 Y: -193`
@@ -185,12 +184,11 @@ Feat: Ability Improvement
 
 [-] Boots: [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots)
   - `Wyrm's Rock Fortress` Found in a locked Gilded Chest on the top floor. `X: -32 Y: 219`
+  - **Note:** Sheila takes these.
 
-[ ] Boots: [Boots of Uninhibited Kushigo](https://bg3.wiki/wiki/Boots_of_Uninhibited_Kushigo)
+[-] Boots: [Boots of Uninhibited Kushigo](https://bg3.wiki/wiki/Boots_of_Uninhibited_Kushigo)
   - `Astral Plane` Carried by **Prelate Lir'i'c** at the start of Act 3. `X: -163 Y: -1158`
-  - **Note:** Bonus action damage on Unarmed Strike after a Dash. Less impactful on
-    Bobby than on Diana, but the Dash synergy with Berserker/Thief is real. Not
-    contested by any other party member.
+  - **Note:** Diana takes these.
 
 [ ] Gloves: [Gauntlets of Hill Giant Strength](https://bg3.wiki/wiki/Gauntlets_of_Hill_Giant_Strength)
   - `House of Hope` On a pedestal in the Archive. `X: -6549 Y: 2940`

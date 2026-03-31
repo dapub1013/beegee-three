@@ -160,8 +160,9 @@ Feat: Ability Improvement +2 DEX
 [-] Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
   - `Blighted Village` Inside a Moss-Covered Chest near the well. `X: 29 Y: 405`
 
-[ ] Ring: [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)
+[-] Ring: [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)
   - `Goblin Camp` Worn by **Crusher**. Slip it off his toe when he demands you kiss his foot *or* loot from his corpse. `X: -70 Y: 439`
+  - **Note:** Diana takes this.
 
 [-] Ring: [Ring of Protection](https://bg3.wiki/wiki/Ring_of_Protection)
   - `Tiefling Hideout` Rewarded by **Mol** for completing the quest *Steal the Sacred Idol* in the Emerald Grove. `X: 84 Y: 73`
