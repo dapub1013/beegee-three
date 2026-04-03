@@ -17,8 +17,17 @@ This is a Baldur's Gate 3 (BG3) build and playthrough notes repository. All cont
 
 When creating a new character build, follow these steps in order before writing anything.
 
-### Step 1 — Research the build
+### Character Creation Mechanics
 
+Before researching any build, keep these BG3-specific rules in mind to avoid importing incorrect assumptions from 5e tabletop:
+
+- **Ability scores** use a 27-point buy with a cap of 15 before bonuses. Every character receives a free +2 and +1 to distribute across any ability scores at the end of point buy — these are universal and not tied to race or background.
+- **Backgrounds** grant two skill proficiencies only. They do not affect ability scores.
+- **Human** grants one free skill proficiency (Human Versatility) and no ability score bonuses.
+- **Ranger skill proficiencies** require extra care: Favoured Enemy and Natural Explorer each grant a specific skill. Confirm both before assigning the 3 Ranger class skill picks to avoid wasting picks on already-covered skills.
+
+### Step 1 — Research the build
+...
 Search for current (post-patch 7) guides and tier lists for the class/subclass combination requested. Look for:
 - Recommended ability score distributions at character creation
 - Multiclass options and the optimal level split
