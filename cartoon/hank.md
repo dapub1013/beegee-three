@@ -10,23 +10,31 @@ Class: Ranger
 
 Race: Human
 
-Favoured Enemy 1/1: Mage Breaker
+Background: Outlander
 
-Natural Explorer 1/1: Wasteland Wanderer: Fire
+Favoured Enemy 1/1: Bounty Hunter
+
+Natural Explorer 1/1: Urban Tracker
+
+Skills 3/3:
+- Perception
+- Stealth
+- Insight
+
+Human Versatility 1/1: Persuasion
 
 Ability Points
 
 | Ability | Score | Modifier |
 |---------|-------|----------|
-| Strength | 9 | — |
+| Strength | 8 | -1 |
 | Dexterity | 16 | +3 |
-| Constitution | 16 | +3 |
-| Intelligence | 9 | — |
+| Constitution | 14 | +2 |
+| Intelligence | 8 | -1 |
 | Wisdom | 16 | +3 |
-| Charisma | 9 | — |
+| Charisma | 12 | +1 |
 
-*Point buy before Human racial bonus: Str 8, Dex 15, Con 15, Int 8, Wis 15, Cha 8. Human adds +1 to all.*
-
+*Point buy: Str 8, Dex 15, Con 14, Int 8, Wis 14, Cha 12. Apply +1 Dex, +2 Wis.*
 ---
 
 ### Level 2
@@ -73,7 +81,7 @@ Spells 1/1: Spike Growth
 
 Class: Ranger
 
-Favoured Enemy 2/2: Sanctified Stalker
+Favoured Enemy 2/2: Mage Breaker
 
 Natural Explorer 2/2: Beast Tamer
 
@@ -83,7 +91,7 @@ Natural Explorer 2/2: Beast Tamer
 
 Class: Ranger
 
-Defensive Tactics 1/1: Escape the Horde
+Defensive Tactics 1/1: Multiattack Defense
 
 Spells 1/1: Pass without Trace
 
@@ -107,7 +115,7 @@ Class: Ranger
 
 Replace Spell: ~~Ensnaring Strike~~ Lightning Arrow
 
-Spells 1/1: Silence
+Spells 1/1: Plant Growth
 
 ---
 
@@ -115,13 +123,17 @@ Spells 1/1: Silence
 
 Class: Ranger
 
-Natural Explorer 3/3: Wasteland Wanderer: Lightning
+Favoured Enemy 1/1: Keeper of the Veil
+
+Natural Explorer 3/3: Wasteland Wanderer: Fire
 
 ---
 
 ### Level 11
 
 Class: Ranger
+
+Spell 1/1: Silence
 
 Hunter's Multiattack 1/1: Volley
 
