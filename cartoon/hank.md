@@ -17,11 +17,11 @@ Ability Points
 | Ability | Score | Modifier |
 |---------|-------|----------|
 | Strength | 8 | — |
-| Dexterity | 17 | +2 |
+| Dexterity | 16 | +2 |
 | Constitution | 14 | — |
 | Intelligence | 8 | — |
-| Wisdom | 14 | +1 |
-| Charisma | 10 | — |
+| Wisdom | 16 | +1 |
+| Charisma | 12 | — |
 
 ---
 
