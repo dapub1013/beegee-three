@@ -14,6 +14,93 @@ This skill encodes the research process that produces correct build files. FORMA
 
 ---
 
+## Step 0 — Establish character creation constraints
+
+Before researching any guides, resolve the four decisions that lock in at character creation and cannot be undone by Withers. Getting these wrong invalidates downstream ability score and proficiency planning.
+
+### Starting class
+
+The class taken at level 1 — not the class with the most levels — determines two things that are fixed for the life of the build:
+
+**Saving throw proficiencies.** Only the first class taken grants its saving throw proficiencies. Multiclassing into a second class does not add that class's saves. Document which two saves the build has proficiency in, and confirm they come from the level 1 class.
+
+Saving throw proficiencies by first class:
+
+| Class | Save proficiencies |
+|-------|--------------------|
+| Barbarian | Strength, Constitution |
+| Bard | Dexterity, Charisma |
+| Cleric | Wisdom, Charisma |
+| Druid | Intelligence, Wisdom |
+| Fighter | Strength, Constitution |
+| Monk | Strength, Dexterity |
+| Paladin | Wisdom, Charisma |
+| Ranger | Strength, Dexterity |
+| Rogue | Dexterity, Intelligence |
+| Sorcerer | Constitution, Charisma |
+| Warlock | Wisdom, Charisma |
+| Wizard | Intelligence, Wisdom |
+
+**Default spellcasting ability.** For non-class features (item spells, scrolls, illithid powers), BG3 uses the spellcasting ability of the class most recently taken to level 1. On a pure build this is always the starting class. On a multiclass build, it is whichever class was taken to level 1 most recently — which may not be the class with the most levels. Confirm this matches the ability score the build is investing in.
+
+Exception: Arcane Trickster and Eldritch Knight both properly define Intelligence as their spellcasting ability and behave predictably on multiclassed characters even when other classes are taken afterward.
+
+### Background
+
+Backgrounds grant exactly two skill proficiencies and cannot be changed after character creation — Withers cannot respec a background. The choice is permanent.
+
+**Check for skill overlap before committing.** If a background grants proficiency in a skill the character's class also offers, that background slot is wasted. Cross-reference the class's skill list against the background's two skills before finalising.
+
+Complete background reference:
+
+| Background | Skills granted |
+|------------|----------------|
+| Acolyte | Insight, Religion |
+| Charlatan | Deception, Sleight of Hand |
+| Criminal | Deception, Stealth |
+| Entertainer | Acrobatics, Performance |
+| Folk Hero | Animal Handling, Survival |
+| Guild Artisan | Insight, Persuasion |
+| Haunted One | Medicine, Intimidation |
+| Noble | History, Persuasion |
+| Outlander | Athletics, Survival |
+| Sage | Arcana, History |
+| Soldier | Athletics, Intimidation |
+| Urchin | Sleight of Hand, Stealth |
+
+Note that Haunted One is exclusive to the Dark Urge origin and is unavailable to custom characters.
+
+### Point buy constraints
+
+Ability scores are allocated via point buy at character creation. The floor is 8 and the ceiling is 15, before any bonuses are applied. Racial bonuses (for races that still grant them) and feat bonuses from the Ability Improvement feat are applied on top of this base.
+
+Ability score modifier chart for reference:
+
+| Score | Modifier | Score | Modifier |
+|-------|----------|-------|----------|
+| 8–9 | −1 | 16–17 | +3 |
+| 10–11 | +0 | 18–19 | +4 |
+| 12–13 | +1 | 20–21 | +5 |
+| 14–15 | +2 | 22+ | +6 and up |
+
+Key interactions to document in the build:
+
+- **Constitution and HP.** The Constitution modifier applies to HP gained at every level, and this is applied retroactively. A build that starts with Constitution 14 (+2) and raises it to 16 (+3) via Ability Improvement at level 4 gains the extra +1 HP per level retroactively across all prior levels. This makes early Constitution investment less punishing than it may appear.
+- **Ability score bonus priority.** Bonuses apply in a fixed order: Ability Improvement feats first (capped at 20), then uncapped bonuses (items like Auntie Ethel's Hair), then capped bonuses (most equipment). If a build plans to use an item that sets or raises an ability score, confirm that the bonus priority does not cause an unexpected interaction. The Ability Improvement feat cannot be taken if all scores it would raise are already at or above 20.
+- **Spell save DC formula.** For caster builds: Spell Save DC = 8 + proficiency bonus + spellcasting ability modifier. Document the target DC at key levels (e.g. level 5 and level 12) to confirm the ability score allocation achieves meaningful DCs on Tactician.
+
+### Skill proficiency budget
+
+Before finalising the level 1 block, tally the full skill proficiency budget:
+
+- Background: 2 skills (fixed, as above)
+- Class: 2 skills from the class list (Bards and Rangers choose 3; Rogues choose 4)
+- Race: some races grant additional skill proficiencies
+
+Proficiency does not stack — if the same skill is granted by two sources, the duplicate is wasted. Rogues gain Expertise (double proficiency bonus) in two skills at level 1 and again at level 6; this is separate from proficiency and should be planned for when choosing starting skills.
+
+---
+
 ## Step 1 — Read the repository conventions
 
 Before doing anything else, read these two files from the repository root:
@@ -180,3 +267,9 @@ Follow FORMAT.md exactly. Key points:
 **False conflicts.** Some items appear to conflict but don't — Derryth Bonecloak restocks the Caustic Band, Volo restocks the Whispering Promise, and some items have multiple sources across acts. Verify restock behaviour before flagging a conflict.
 
 **Missing act assignment.** Items that are technically obtainable in Act 1 but require going somewhere dangerous, or items that become available in Act 2 but were placed in the world in Act 1, can be ambiguous. Use bg3.wiki's "Where to find" section as the authority.
+
+**Multiclass save proficiency assumption.** Only the first class taken at character creation grants saving throw proficiencies. A build that starts as Rogue and multiclasses into Paladin does not gain Wisdom and Charisma saves — it keeps Dexterity and Intelligence. Guides occasionally get this wrong or assume a specific starting class without stating it. Verify the level 1 class against the save proficiencies the build claims to have.
+
+**Background skill overlap.** Background proficiencies cannot be changed and do not stack with class proficiencies. A Criminal background on a Rogue wastes Stealth (already a Rogue class skill option). Check for overlap before finalising the level 1 block and flag it if a guide's suggested background produces redundant proficiencies for the class.
+
+**Spellcasting ability mismatch on multiclass builds.** Non-class spellcasting (scrolls, item spells, illithid powers) uses the spellcasting ability of the most recently taken first level, not the primary class. A build that takes Fighter at level 7 will use Intelligence for those features going forward, even if the build is primarily a Cleric. Confirm which class was taken to level 1 most recently and that it matches the ability score being invested in.
